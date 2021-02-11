@@ -1,0 +1,97 @@
+"1.4 Install Packages"
+library(caret)
+
+'2. Load The Data'
+filename="Questao1CSV.csv"
+dataset=read.csv(filename, header = TRUE)
+class(dataset)
+head(dataset)
+
+"2.3. Create a Validation Dataset"
+# create a list of 80% of the rows in the original dataset we can use for training
+validation_index <- createDataPartition(dataset$Grupo, p=0.80, list=FALSE)
+# select 20% of the data for validation
+validation <- dataset[-validation_index,]
+# use the remaining 80% of data to training and testing the models
+dataset <- dataset[validation_index,]
+
+"3. Summarize Dataset"
+dim(dataset)
+sapply(dataset,class)
+
+# list the levels for the class
+levels(dataset$Grupo)
+head(dataset)
+
+# summarize the class distribution
+percentage <- prop.table(table(dataset$Grupo)) * 100
+cbind(freq=table(dataset$Grupo), percentage=percentage)
+
+# summarize attribute distributions
+summary(dataset)
+
+"4. Visualize Dataset"
+"4.1 Univariate Plots"
+
+# split input and output
+x <- dataset[,1:3]
+y <- dataset[,4]
+# boxplot for each attribute on one image
+par(mfrow=c(1,3))
+for(i in 1:3) {
+  boxplot(x[,i], main=names(filename)[i])
+}
+
+# barplot for class breakdown
+plot(y)
+
+"4.2 Multivariate Plots"
+# scatterplot matrix
+featurePlot(x=x, y=y, plot="ellipse")
+
+# box and whisker plots for each attribute
+featurePlot(x=x, y=y, plot="box")
+
+# density plots for each attribute by class value
+scales <- list(x=list(relation="free"), y=list(relation="free"))
+featurePlot(x=x, y=y, plot="density", scales=scales)
+
+"5. Evaluate Some Algorithms"
+# Run algorithms using 10-fold cross validation
+control <- trainControl(method="cv", number=3)
+metric <- "Accuracy"
+
+"5.2 Build Models"
+# a) linear algorithms
+set.seed(7)
+fit.lda <- train(Grupo~., data=dataset, method="lda", metric=metric, trControl=control)
+# b) nonlinear algorithms
+# CART
+set.seed(7)
+fit.cart <- train(Grupo~., data=dataset, method="rpart", metric=metric, trControl=control)
+# kNN
+set.seed(7)
+fit.knn <- train(Grupo~., data=dataset, method="knn", metric=metric, trControl=control)
+# c) advanced algorithms
+# SVM
+set.seed(7)
+fit.svm <- train(Grupo~., data=dataset, method="svmRadial", metric=metric, trControl=control)
+# Random Forest
+set.seed(7)
+fit.rf <- train(Grupo~., data=dataset, method="rf", metric=metric, trControl=control)
+
+"5.3 Select Best Mode"
+# summarize accuracy of models
+results <- resamples(list(lda=fit.lda, cart=fit.cart, knn=fit.knn, svm=fit.svm, rf=fit.rf))
+summary(results)
+
+# compare accuracy of models
+dotplot(results)
+
+# summarize Best Model
+print(fit.lda)
+
+"6. Make Predictions"
+# estimate skill of LDA on the validation dataset
+predictions <- predict(fit.lda, validation)
+confusionMatrix(predictions, validation$Species)

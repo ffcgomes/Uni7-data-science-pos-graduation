@@ -1,0 +1,160 @@
+//vendas
+
+{
+    "_id" : 01,
+    
+    "cliente" : 
+    { 
+      "id": 2,
+      "nome" : "Francisco Jose",
+      "cep" : "99999-999",
+     "enderecoentrega" : "Rua B, N. 02",
+     "cpf" : "999.999.999.99"
+    },
+    
+   "nota":
+   {
+     " id" : "01",
+     "numero" : 9999,
+     "quantidade" : 1,
+     "valor" : 2500,
+     "aliquota" : 15
+   },
+  
+  
+    "produto" :  
+   {
+     "produtoid" : "01",
+     "descricao:" : "Monitor 4k",
+     "preco_venda" : 2500.0,
+     "quantidade" : 1,
+     "fornecedor" : "Empresa A"
+    },
+    
+    
+    "forma_pagamento" : "Cartao",
+    "funcionario" : 
+    {
+      "funcionarioid":   "01",
+      "nome":  "Antonio"
+    },
+},   
+
+//produto
+
+{
+    "_id" : "01",
+    "fornecedorid" : "01",
+    "grupoid" : "01",
+    "descricao" : "Monitor 4k",
+    "preco_custo" : 2000,
+    "preco_venda" : 2500,
+    "estoque" : 100,
+    "grupo" : 
+        {
+             "id": "01"
+            "nome_grupo" : "perifericos",
+            "sub_grupo" : "monitores"
+        },
+    
+}
+
+//grupo
+
+{
+    "_id" : "01",
+    "nome" : "perifericos",
+    "sub-grupo" : "monitores"
+}
+
+{
+    "_id" : "02",
+    "nome" : "softwares",
+    "sub-grupo" : "sistema_operacional"
+}
+
+//nota
+
+{
+    "_id" : "01",
+    "id_cliente" : "01",
+    "id_produto" : "01",
+    "numero" : 9999,
+    "quantidade" : 1,
+    "valor" : 2500,
+    "aliquota" : 15
+}
+
+
+
+//fornecedor
+
+{
+    "_id" : "02",
+    "pessoa_id" : "02",
+    "razao_social":"Empresa A",
+    "endereco":"Rua B",
+    "cnpj":"99.999.999/0001-99",
+    "inscricao_estadual":"999999"
+}
+
+//funcionario
+
+{
+    "_id" : "01",
+    "nome" : "Antonio",
+    "endereco" : "Rua C",
+    "data_admissao" : "99/99/9999",
+    "salario" : 9999
+}
+
+//pagamentos
+
+{
+    "_id" : "01",
+    "nome" : "cartao"
+}
+{
+    "_id" : "02",
+    "nome" : "dinheiro"
+}
+{
+    "_id" : "03",
+    "nome" : "cheque"
+}
+
+//pessoa
+
+    "pessoaid" : "02",
+    "nome" : "Francisco Jose",
+    "cep" : "99999-999",
+    "endereco" : "Rua B, N. 02",
+    "cpf" : "999.999.999.99"
+
+
+
+
+//1-fornecedor
+{
+    "_id" : "01",
+    "pessoaid": "01"
+    "nome" : "Empresa A",
+    "cep" : "99999-999",
+    "endereco" : "Rua A, N. 01",
+    "tipo_pessoa" : "fornecedor",
+    "cnpj" : "99.999.999/0001-99"
+}
+
+//2-cliente
+{
+    "_id" : "02",
+    "pessoaid": "02"
+    "nome" : "Francisco Jose",
+    "cep" : "99999-999",
+    "endereco" : "Rua B, N. 02",
+    "tipo_pessoa" : "cliente",
+    "cpf" : "999.999.999.99"
+}
+
+
+

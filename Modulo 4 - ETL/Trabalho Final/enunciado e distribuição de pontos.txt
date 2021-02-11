@@ -1,0 +1,43 @@
+https://goo.gl/QBTmSc
+https://goo.gl/xkooH5
+https://goo.gl/Jmzvn3
+cliente.xlsx
+
+- Carregar os arquivos em uma base de dados:
+
+Banco: UNI7
+Tabelas: 
+  - dw (obrigatória!)
+  - cliente (cadastro clientes)
+  - venda (fato - historica)
+
+cliente.xlsx ==> cliente
+venda_201803.csv, venda_201804.csv e venda_201805.csv ==> venda
+
+- Carregar os arquivos em uma tabela (dw) consolidando todos os campos de todos os arquivos.
+
+create table dw ( 
+  vendacodigo integer,
+  vendadata date,
+  clientecodigo integer,
+  vendavalor double precision,
+  clientenome text,
+  clientecidade text,
+  clienteuf text 
+);
+
+Distribuição dos pontos:
+
+1,0 Carregamento dos arquivos nas tabelas (1 ponto)
+2,0 Merge dos arquivos (2 pontos)
+2,0 Integridade dos dados (2 pontos)
+2,5 Iteração dos três períodos por lista (2,5 pontos)
+2,5 Passagem, recebimento e funcionamento de parâmetro (2,5 pontos)
+
+Total: 10 pontos
+
+Ponto extra:
+
+Integrar ao final do projeto, a transformação Correção.ktr
+
+Boa sorte!

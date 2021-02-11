@@ -1,0 +1,93 @@
+Section 3: Building the Artificial Neural Networks (ANNs)
+
+https://colab.research.google.com/drive/1nVVRhr1uueuWiEFFZQ9XC6fZjsF6JntT
+
+
+
+Section 4: Binary Classification with Artificial Neural Networks
+
+https://colab.research.google.com/drive/11rnHy1x8y_GM3upkQATWdubtctHbhIi_
+
+
+
+Section 6: Building Convolutional Neural Networks (CNNs)
+
+https://colab.research.google.com/drive/1C8DpNjAlcGLXiQuZdtVQ9XjjnBdMDXUg
+
+
+
+Section 7: CNN for Binary Image Classification
+
+https://colab.research.google.com/drive/1z-ED1rmgV_Yst_ynHDKYaAzWfqUTHFXe
+
+
+
+Section 8: CNN for Digit Recognition
+
+https://colab.research.google.com/drive/1fCJbTIhkAmDFm2cia82hefF3lqI8ir4X
+
+
+
+Section 9: CNN for Breast Cancer Detection
+
+https://colab.research.google.com/drive/1_nWHNKjdLRs_bO9xxbPkgNf9F9pB8TNB
+
+
+
+Section 10: CNN for Predicting the Bank Customer Satisfaction
+
+https://colab.research.google.com/drive/1Lv8p8kF2XTIpGGiLn6HwENPUh4lhdzz8
+
+
+
+Section 11: CNN for Credit Card Fraud Detection
+
+https://colab.research.google.com/drive/1SJACiGzVNJDyhdJdPHK3RQ9ikQQfpvDj
+
+
+
+Section 13: RNN - LSTM for IMDB Review Classification
+
+https://colab.research.google.com/drive/1yVvVc4mJ6-4yDEUTr_tKnIXEoZFKPeS3
+
+
+
+Section 14: RNN - LSTM for Image Classification
+
+https://colab.research.google.com/drive/1SQoykvNaFDN171gsrjoXYU2ZQYP3vZED
+
+
+
+Section 15: Google Stock Price Prediction with RNN and LSTM
+
+https://colab.research.google.com/drive/1UhdfY93MNkrunkM2ya-uXE8LUZB8mp5R
+
+
+
+Section 16: Transfer Learning
+
+https://colab.research.google.com/drive/1AHienzzEoZqbGGzOTmAPbe9NO0ZgcnxH
+
+
+
+Section 18: Annex 1: Data Analysis with Numpy
+
+https://colab.research.google.com/drive/19gdFCeOrwoOFcyOdC0aINPMW9b8NKZoX
+
+
+
+Section 19: Annex 2: Data Analysis with Pandas
+
+Colab Part 1:
+
+https://colab.research.google.com/drive/1U1kumO6AYGNjq-067WHyXRFfy1tz-N3D
+
+Colab Part 2:
+
+https://colab.research.google.com/drive/13IpO-Yc-qo4bSHDI3oRRTGYDIufgON30
+
+
+
+Section 20: Annex 3: Data Visualization with Matplotlib
+
+https://colab.research.google.com/drive/1eCNbA7UtMEu6HBn6ToN3zbiUDkUsilPA

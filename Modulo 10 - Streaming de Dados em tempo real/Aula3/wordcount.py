@@ -1,0 +1,11 @@
+from pyspark import SparkConf, SparkContext
+
+conf = SparkConf().setAppName("MyApp")
+sc = SparkContext(conf=conf)
+
+text_file = sc.textFile("file:///home/flaviolg/spark/aula2/shakespeare.txt")
+counts = text_file.flatMap(lambda line: line.split(" ")) \
+             .map(lambda word: (word, 1)) \
+             .reduceByKey(lambda a, b: a + b)
+counts.saveAsTextFile("file:///home/flaviolg/spark/aula2/shakespeare_out")
+

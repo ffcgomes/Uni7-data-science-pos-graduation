@@ -1,0 +1,5 @@
+delete from yourtable where month(YourDatetimeColumn) = 5
+
+delete 
+FROM venda
+WHERE vendadata BETWEEN '2018/${mes}/01' AND '2018/${mes}/31'

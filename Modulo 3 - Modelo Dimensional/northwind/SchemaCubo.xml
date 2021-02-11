@@ -1,0 +1,36 @@
+<Schema name="SchemaCubo">
+  <Cube name="VENDAS" visible="true" cache="true" enabled="true">
+    <Table name="FATO_PEDIDO" alias="">
+    </Table>
+    <Dimension type="StandardDimension" visible="true" foreignKey="customerid_SK" name="CLIENTE">
+      <Hierarchy visible="true" hasAll="true" primaryKey="customerid_SK">
+        <Table name="dim-cliente" alias="">
+        </Table>
+        <Level name="CLIENTE" visible="true" column="ContactName" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="StandardDimension" visible="true" foreignKey="productid_SK" name="PRODUTOS">
+      <Hierarchy visible="true" hasAll="true" primaryKey="productid_SK">
+        <Table name="dim-produto" alias="">
+        </Table>
+        <Level name="PRODUTO" visible="true" column="ProductName" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Dimension type="TimeDimension" visible="false" foreignKey="orderdate" name="Data">
+      <Hierarchy visible="true" hasAll="true">
+        <Table name="dim-data" alias="">
+        </Table>
+        <Level name="Dia" visible="true" column="DAY_DATE" type="Integer" uniqueMembers="false" levelType="TimeDays" hideMemberIf="Never">
+        </Level>
+        <Level name="Ano" visible="true" column="YEAR_NUMBER" type="Integer" uniqueMembers="false" levelType="TimeYears" hideMemberIf="Never">
+        </Level>
+        <Level name="Mes" visible="true" column="MONTH_NAME" type="String" uniqueMembers="false" levelType="TimeMonths" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+    <Measure name="QUANTIDADE" column="quantity" datatype="Integer" aggregator="count" visible="true">
+    </Measure>
+  </Cube>
+</Schema>

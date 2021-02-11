@@ -1,0 +1,9 @@
+x=read.csv("Questao1a.csv")
+head(x)
+names(x)
+media=colMeans(x)
+media
+sx=cov(x)
+sx
+d2=mahalanobis(x,media,sx)
+d2

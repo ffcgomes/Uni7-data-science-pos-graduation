@@ -1,0 +1,1001 @@
+id,filme,genero,datalocacao,vendedorid,valor
+1,Anchorman 2: The Legend Continues,Comedy,11/27/2017,3,5.76
+2,The Expedition to the End of the World,Documentary,12/14/2016,2,4.86
+3,Along Came a Spider,Action|Crime|Mystery|Thriller,6/30/2015,4,5.19
+4,À nous la liberté (Freedom for Us),Comedy|Musical,4/9/2016,2,5.1
+5,My Little Business (Ma petite entreprise),Comedy|Drama,2/6/2016,1,6.23
+6,"Eye of Vichy, The (Oeil de Vichy, L')",Documentary,2/17/2017,2,5.62
+7,Stray Dogs (Sag-haye velgard),Drama,10/22/2015,2,6.8
+8,Wanda,Drama,6/20/2016,5,5.89
+9,That Night's Wife,Drama,4/6/2016,2,5.94
+10,Open Windows,Crime|Thriller,8/15/2015,4,6.69
+11,"Southerner, The",Drama,7/30/2016,3,6.65
+12,"Dead Hate the Living!, The",Comedy|Horror,11/30/2016,4,4.65
+13,24: Redemption,Action|Adventure|Crime|Drama|Thriller,4/10/2016,3,4.82
+14,P2,Horror|Thriller,8/24/2017,3,4.51
+15,"Star Packer, The",Action|Romance|Western,7/6/2016,4,5.42
+16,Broom-Stick Bunny,Animation|Children|Comedy,10/15/2015,5,4.94
+17,"For a Good Time, Call...",Comedy|Drama|Romance,8/7/2016,1,4.97
+18,First Daughter,Comedy|Romance|Thriller,7/27/2015,4,6.06
+19,Domestic Disturbance,Thriller,3/1/2017,5,4.92
+20,"Longshots, The",Drama,4/20/2015,3,4.83
+21,Shaft in Africa,Action|Crime,3/14/2017,4,4.81
+22,"Taking of Power by Louis XIV, The (Prise de pouvoir par Louis XIV, La)",Drama,2/24/2015,1,5.36
+23,Elsa & Fred,Children|Comedy|Romance,6/7/2015,4,6.59
+24,Sometimes They Come Back... Again,Horror,1/24/2015,4,4.79
+25,Michael Collins,Drama,6/4/2015,1,5.22
+26,Smilla's Sense of Snow,Drama|Thriller,5/22/2015,4,4.52
+27,Tales of the Grim Sleeper,Crime|Documentary,6/28/2016,5,5.09
+28,Sukiyaki Western Django,Action|Western,10/25/2015,2,5.02
+29,"Match Factory Girl, The (Tulitikkutehtaan tyttö)",Comedy|Drama,5/6/2017,3,6.46
+30,"Elusive Summer of '68, The (Varljivo leto '68)",Comedy|Drama|Romance,2/2/2017,2,6.23
+31,Police,Comedy,6/2/2017,5,5.7
+32,Zatoichi Challenged (Zatôichi chikemuri kaidô) (Zatôichi 17),Action|Drama,11/19/2015,3,4.79
+33,"Color of Money, The",Drama,1/6/2016,5,4.97
+34,Shine,Drama|Romance,1/4/2015,5,6.33
+35,Autohystoria,(no genres listed),1/23/2015,1,5.18
+36,Assassin of the Tsar,Drama,12/13/2017,1,5.55
+37,Fatso,Comedy,6/12/2015,3,6.55
+38,"Boss of It All, The (Direktøren for det hele)",Comedy|Drama,1/15/2015,5,6.2
+39,"Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko)",Animation|Comedy|Drama|Fantasy,3/3/2016,1,5.99
+40,Palmetto,Crime|Drama|Mystery|Romance|Thriller,5/9/2017,5,4.7
+41,Eight Deadly Shots (Kahdeksan surmanluotia),Drama,2/29/2016,4,4.73
+42,Deadly Circuit (Mortelle randonnée),Crime|Mystery|Thriller,9/28/2017,2,6.65
+43,D.O.A.,Documentary,7/6/2015,4,5.98
+44,"Libertine, The",Drama,1/12/2017,1,5.49
+45,"Baron Blood (Orrori del castello di Norimberga, Gli)",Horror,1/10/2017,1,5.18
+46,Breaking Wind,Comedy,6/14/2015,5,5.53
+47,Down to Earth,Drama,6/5/2016,2,6.71
+48,About Alex,Drama,12/16/2015,1,4.91
+49,"Blot, The",Drama,10/4/2015,1,6.66
+50,"Far Side of the Moon, The (Face cachée de la lune, La)",Drama,7/15/2016,2,5.37
+51,Prime,Comedy|Drama|Romance,4/26/2015,1,6.63
+52,Attack the Block,Action|Comedy|Sci-Fi,1/27/2017,2,5.97
+53,Affluenza,Drama,2/26/2015,3,6.04
+54,"Way South, The (De weg naar het zuiden)",Documentary,8/22/2017,1,6.38
+55,Music and Lyrics,Comedy|Romance,11/10/2015,1,5.85
+56,Happy Ever Afters,Comedy,4/30/2016,5,5.78
+57,"Rocket from Calabuch, The (Calabuch)",Comedy,11/6/2016,1,6.26
+58,Friends and Family,Comedy,8/1/2015,3,5.97
+59,Robin and Marian,Adventure|Drama|Romance,12/4/2015,2,5.9
+60,How Bruce Lee Changed the World,Documentary,1/30/2017,2,6.11
+61,"Noah's Arc Principle, The (Arche Noah Prinzip, Das)",Sci-Fi,6/24/2017,2,6.43
+62,Tarantula,Horror|Sci-Fi,12/21/2017,1,5.16
+63,"Cabinet of Dr. Caligari, The (Cabinet des Dr. Caligari., Das)",Crime|Fantasy|Horror,10/30/2016,4,5.07
+64,12 Angry Men,Drama,4/14/2015,3,4.81
+65,Emmanuel's Gift,Documentary,8/6/2015,3,6.06
+66,"Severed Arm, The",Crime|Horror,11/10/2015,3,6.64
+67,Small Soldiers,Animation|Children|Fantasy|War,2/20/2016,3,5.96
+68,"Nightmare on Elm Street 5: The Dream Child, A",Horror,8/27/2015,3,6.01
+69,"Iron Mask, The",Adventure|Drama|Romance,10/22/2016,1,6.26
+70,Warsaw Bridge (Pont de Varsòvia),(no genres listed),10/26/2017,5,5.98
+71,Police,Comedy,8/14/2015,1,5.14
+72,American Virgin,Comedy,12/29/2015,5,6.55
+73,"Horse Rebellion, The (Pulakapina)",Drama,9/4/2017,5,6.5
+74,Blessed Event,Comedy|Drama,11/27/2017,1,5.93
+75,Safe House,Action|Crime|Mystery|Thriller,4/1/2015,3,5.64
+76,"Story of Women (Affaire de femmes, Une)",Drama,2/16/2017,4,5.29
+77,Mr. Warmth: The Don Rickles Project,Documentary,2/29/2016,2,6.37
+78,"Shunning, The",Drama,6/14/2016,3,4.77
+79,Ghost in the Shell (Kôkaku kidôtai),Animation|Sci-Fi,7/18/2016,2,4.71
+80,Vanya on 42nd Street,Drama,8/21/2016,1,5.82
+81,Right at Your Door,Drama|Thriller,10/10/2017,1,4.94
+82,A Spell to Ward Off the Darkness,Documentary,4/10/2015,3,5.42
+83,Fire in the Blood,Documentary,5/2/2017,5,6.2
+84,Sisters of the Gion (Gion no shimai),Drama,1/2/2017,1,6.31
+85,Dan in Real Life,Comedy|Drama|Romance,4/16/2017,3,4.68
+86,"Work of Director Michel Gondry, The",Comedy|Documentary,10/20/2016,5,4.79
+87,My Mother and Her Guest (Sarangbang sonnimgwa eomeoni),Drama,5/7/2015,5,5.6
+88,Murder on Flight 502,Drama|Mystery|Thriller,4/28/2017,2,5.21
+89,Ghost Machine,Action|Sci-Fi|Thriller,9/5/2015,4,5.18
+90,Wilbur Wants to Kill Himself,Comedy|Drama|Romance,5/20/2016,4,6.17
+91,"Harvey Girls, The",Comedy|Musical|Western,10/9/2015,5,5.65
+92,Jingle All the Way 2,Children|Comedy,8/29/2017,3,4.52
+93,Great Guy,Crime|Drama|Mystery,1/27/2016,5,6.51
+94,Dracula (Dracula 3D),Horror|Romance|Thriller,9/16/2016,4,5.64
+95,Free Men (Les hommes libres),Drama|War,4/27/2017,4,6.15
+96,Calculator,Sci-Fi,9/13/2017,3,5.84
+97,San Quentin,Drama,12/21/2015,3,5.49
+98,Rampart,Action|Crime|Drama|Thriller,3/11/2016,2,6.56
+99,Before Midnight,Drama|Romance,7/12/2017,2,4.52
+100,True Stories,Comedy|Musical,6/17/2016,5,5.51
+101,An Evening with Robin Williams,Comedy,12/3/2016,2,5.46
+102,Snow (Snijeg),Drama,3/4/2016,1,5.77
+103,"Time of the Wolf, The (Le temps du loup)",Drama,11/4/2016,5,5.87
+104,"Injury to One, An",Documentary,1/16/2015,5,6.39
+105,Let's Kill Ward's Wife,Comedy,5/10/2017,2,4.8
+106,"Manchurian Candidate, The",Crime|Thriller|War,5/1/2015,5,5.08
+107,To the Wonder,Drama|Romance,5/26/2015,2,4.74
+108,"Secret Life of Words, The",Drama|Romance,6/11/2015,5,6.44
+109,David Cross: The Pride Is Back,Comedy,11/24/2017,3,5.16
+110,Stop at Nothing: The Lance Armstrong Story,Documentary|Thriller,4/12/2015,1,5.06
+111,"Private Affairs of Bel Ami, The",Drama,9/20/2017,3,5.75
+112,Happy Times (Xingfu shiguang),Comedy|Drama,7/19/2016,3,5.82
+113,L.A. Confidential,Crime|Film-Noir|Mystery|Thriller,7/21/2015,3,5.57
+114,Before the Fall (NaPolA - Elite für den Führer),Drama|War,10/30/2017,3,4.76
+115,Defenseless,Thriller,6/23/2016,1,4.98
+116,24 City (Er shi si cheng ji),Drama,7/25/2016,4,6.11
+117,Armageddon 2012,Sci-Fi,1/30/2017,5,5.49
+118,Terror is a Man,Horror|Sci-Fi,9/14/2017,4,5.69
+119,Two for the Seesaw,Drama|Romance,11/7/2016,5,5.38
+120,Talk to Her (Hable con Ella),Drama|Romance,1/7/2016,1,5.39
+121,My Son the Fanatic,Comedy|Drama|Romance,5/26/2015,1,6.03
+122,Oranges,Drama,8/22/2015,1,6.02
+123,Control Room,Documentary|War,10/23/2015,4,5.7
+124,Above and Beyond,Action|Drama,3/16/2015,3,4.76
+125,Beyond Outrage,Action,11/16/2015,4,6.77
+126,First Daughter,Comedy|Romance|Thriller,11/17/2015,2,5.07
+127,Sube y Baja,Comedy,10/27/2015,3,5.43
+128,"Decline of Western Civilization Part II: The Metal Years, The",Documentary,10/31/2017,2,5.08
+129,Crocodile (Ag-o),Drama,10/29/2015,4,6.15
+130,Thieves' Highway,Drama|Film-Noir|Thriller,10/30/2017,1,4.51
+131,Comedian,Comedy|Documentary,5/29/2015,5,6.04
+132,Weird Woman,Drama,9/25/2015,3,5.2
+133,"Invisible Sign, An",Comedy|Drama,12/25/2016,3,5.43
+134,Country Life,Drama|Romance,9/5/2016,3,5.81
+135,Cosmic Psychos: Blokes You Can Trust,Documentary|Musical,8/23/2015,1,6.73
+136,Mrs. Parker and the Vicious Circle,Drama,3/2/2017,2,5.37
+137,Piled Higher and Deeper,Comedy,10/8/2016,4,6.05
+138,"Ice House, The",Drama|Mystery|Thriller,9/15/2017,4,6.56
+139,Citizen Kane,Drama|Mystery,6/25/2017,3,6.59
+140,Profound Desires of the Gods (Kamigami no fukaki yokubo) ,Drama,10/18/2016,2,4.86
+141,Flatliners,Horror|Sci-Fi|Thriller,6/10/2016,2,6.15
+142,I Confess,Thriller,6/26/2016,3,4.91
+143,Wish You Were Here,Comedy|Drama,7/22/2016,5,4.52
+144,"Sunday Day in Hell, A (En forårsdag i Helvede)",Documentary,3/22/2016,2,6.57
+145,"Rocks (Rad, Das)",Action|Animation|Fantasy,3/1/2017,1,5.74
+146,Children of Nature (Börn náttúrunnar),Drama|Mystery,8/2/2016,3,5.85
+147,Blue Spring (Aoi haru),Drama,6/16/2017,4,5.63
+148,Transformers,Action|Sci-Fi|Thriller|IMAX,1/11/2016,4,6.1
+149,"Greystoke: The Legend of Tarzan, Lord of the Apes",Adventure|Drama|Romance,1/5/2015,3,5.67
+150,The Tattooist,Horror|Thriller,12/13/2017,1,6.36
+151,Video Games: The Movie,Documentary,3/24/2016,3,5.53
+152,"Last Horror Movie, The",Horror|Thriller,2/10/2017,2,5.28
+153,Secret,Drama|Fantasy|Romance,10/2/2016,5,6.43
+154,"Round Up, The (La Rafle)",Drama|War,7/10/2017,1,5.67
+155,Carry On Teacher,Comedy,4/11/2015,2,4.99
+156,Rising Sun,Action|Drama|Mystery,9/15/2015,3,5.76
+157,"Return of Frank Cannon, The",Action|Crime|Drama|Mystery|Thriller,9/27/2015,4,4.63
+158,"Love on the Run (Amour en fuite, L')",Comedy|Drama|Romance,10/12/2017,5,4.73
+159,LEGO Batman: The Movie - DC Heroes Unite,Action|Adventure|Animation,7/8/2015,4,5.1
+160,Platform (Zhantai),Drama,4/7/2017,5,6.69
+161,"Lacemaker, The (Dentellière, La)",Drama|Romance,3/17/2017,5,6.68
+162,Let Him Have It,Crime|Drama,12/20/2015,1,6.22
+163,Taxi to the Dark Side,Documentary,5/26/2015,3,4.88
+164,"Americanization of Emily, The",Comedy|Drama|War,2/2/2017,2,5.5
+165,Things You Can Tell Just by Looking at Her,Drama|Romance,8/19/2017,3,5.87
+166,"Tomb, The",Horror|Thriller,12/2/2016,5,5.39
+167,Float,Drama|Romance,9/16/2017,2,4.97
+168,Never Back Down,Action,7/9/2016,3,6.54
+169,Bonjour Monsieur Shlomi (Ha-Kochavim Shel Shlomi),Comedy|Drama,8/12/2015,2,6.62
+170,Johnny Dangerously,Comedy,7/23/2015,3,4.54
+171,"Late Quartet, A",Drama,8/11/2016,3,4.69
+172,"Householder, The (Gharbar)",Comedy|Drama,9/6/2015,5,5.76
+173,Lisbela e o Prisioneiro (Lisbela and the Prisoner),Comedy|Romance,9/14/2015,1,4.61
+174,Puss in Boots: The Three Diablos,Animation|Comedy,5/25/2016,3,6.16
+175,"Rookie, The",Action|Comedy|Thriller,1/4/2015,3,5.96
+176,Love Wrecked,Comedy|Romance,1/8/2017,1,6.72
+177,"Skeleton Key, The",Drama|Horror|Mystery|Thriller,2/21/2015,3,5.32
+178,Elena Undone,Drama|Romance,1/7/2015,1,5.19
+179,Midnight in Paris,Comedy|Fantasy|Romance,3/12/2015,5,6.58
+180,Tokyo Joe,Drama|Thriller,3/26/2015,3,5.75
+181,Wrong Side Up (Pribehy obycejneho silenstvi),Comedy|Drama,5/20/2017,2,5.63
+182,Terkel in Trouble (Terkel i knibe),Animation|Comedy|Drama|Musical,10/7/2015,4,5.41
+183,Kinbaku,Documentary,2/25/2015,1,6.6
+184,Parade,Children|Comedy,11/28/2017,1,5.57
+185,Clapham Junction,Drama,8/10/2016,5,5.42
+186,Fatty Drives the Bus,Comedy,6/22/2015,5,6.27
+187,Old Dogs,Comedy,7/28/2017,2,5.93
+188,Cromwell,Drama,5/20/2017,4,5.53
+189,You Killed Me First,Drama,12/11/2016,1,4.9
+190,Suzy,Drama,9/8/2017,3,5.58
+191,[REC] 4: Apocalypse,Horror|Thriller,12/27/2015,3,5.64
+192,Sasori,Action,3/1/2017,1,4.61
+193,"Brothers Karamazov, The",Drama,3/15/2015,5,5.05
+194,Mister Magoo's Christmas Carol,Animation|Children|Comedy|Drama|Fantasy|Musical,11/6/2015,1,4.98
+195,"Demon in My View, A (Der Mann nebenan)",Horror|Thriller,1/31/2017,5,5.96
+196,My Perestroika,Documentary,11/23/2017,1,4.89
+197,"Beautiful Life, A",Drama,7/10/2017,4,5.59
+198,"Art of Travel, The",Adventure|Drama|Romance,12/7/2017,1,5.83
+199,"Certain Kind Of Death, A",Documentary,10/19/2017,5,5.19
+200,Orphan,Drama|Horror|Mystery|Thriller,6/2/2016,1,4.68
+201,Descent,Drama|Thriller,3/11/2016,3,4.75
+202,Bay of Angels (La baie des anges),Drama|Romance,6/13/2017,5,5.04
+203,"Vie meilleure, Une (Better Life, A)",Drama,10/7/2016,3,5.82
+204,Jason and the Argonauts,Action|Adventure|Fantasy,11/29/2017,2,5.88
+205,Judas Kiss,Crime|Drama|Thriller,2/25/2016,4,5.15
+206,Dumb and Dumberer: When Harry Met Lloyd,Comedy,12/10/2016,1,5.51
+207,Naked Blood: Megyaku (Nekeddo burâddo: Megyaku),Horror,11/6/2017,4,6.22
+208,Hearts of the West,Comedy|Western,12/10/2016,4,5.1
+209,Snowpiercer,Action|Drama|Sci-Fi,3/3/2015,2,5.09
+210,"Luzhin Defence, The",Drama|Romance,12/4/2015,4,5.38
+211,Peanuts - Die Bank zahlt alles,Comedy,11/10/2016,4,6.01
+212,Tell,Action|Crime|Drama,1/5/2016,4,6.56
+213,French Cancan,Comedy|Drama|Musical|Romance,6/21/2015,2,5.37
+214,"Secret in Their Eyes, The (El secreto de sus ojos)",Crime|Drama|Mystery|Romance|Thriller,9/16/2015,4,6.05
+215,McHale's Navy,Comedy|War,10/29/2015,5,6.61
+216,"Fitzgerald Family Christmas, The",Drama,12/19/2015,3,4.53
+217,Dreams That Money Can Buy,Fantasy,3/10/2015,5,6.75
+218,Waking Sleeping Beauty,Animation|Documentary,7/15/2015,4,4.77
+219,Chappie,Action|Thriller,12/6/2016,4,4.68
+220,Li'l Quinquin,(no genres listed),1/20/2015,1,4.78
+221,"Beginner's Guide to Endings, A",Comedy|Drama,2/9/2016,1,4.73
+222,Tideland,Drama|Fantasy|Thriller,1/23/2017,1,5.79
+223,Boxing Gym,Documentary,2/12/2016,3,5.94
+224,"Man Called Adam, A",Drama,12/9/2017,1,5.26
+225,Prince Valiant,Adventure,5/26/2017,3,5.07
+226,Fraternity Demon,Comedy,2/1/2015,1,6.16
+227,April Love,Comedy|Drama|Musical,12/11/2015,1,5.07
+228,The White Sister,Drama|Romance,10/12/2017,1,6.51
+229,Out of the Blue,Drama,9/2/2016,2,5.87
+230,Bring It On: In It To Win It,Comedy,12/16/2015,5,4.67
+231,Bread and Tulips (Pane e tulipani),Comedy|Drama|Romance,11/29/2017,3,6.16
+232,Zombie Girl: The Movie,Documentary,3/31/2015,1,6.17
+233,Adventures of Tarzan,Action|Adventure,11/3/2016,1,5.83
+234,Fate (Yazgi),Drama,6/24/2015,4,6.34
+235,Cell Count,Horror|Sci-Fi,9/18/2015,3,5.21
+236,10 to Midnight,Action|Adventure|Thriller,6/13/2016,2,5.28
+237,Thrust in Me,(no genres listed),4/12/2017,2,4.81
+238,Flightplan,Action|Drama|Thriller,7/5/2017,4,4.58
+239,Twister,Action|Adventure|Romance|Thriller,12/12/2017,5,6.76
+240,Frontier of the Dawn (La frontière de l'aube),Drama,3/23/2017,3,6.34
+241,Wedlock,Action|Crime|Drama|Sci-Fi|Thriller,7/14/2015,4,6.42
+242,Honky Tonk Freeway,Comedy,5/31/2015,5,6.01
+243,"Revolution Will Not Be Televised, The (a.k.a. Chavez: Inside the Coup)",Documentary,6/8/2017,1,5.86
+244,Rage of Honor,Action|Crime,5/19/2015,1,5.41
+245,Melissa P.,Drama,8/8/2017,5,5.54
+246,Ice Station Zebra,Action|Thriller,2/27/2016,3,6.66
+247,Hearts in Atlantis,Drama,3/29/2017,1,5.01
+248,Artois the Goat,Comedy,10/18/2015,1,6.22
+249,Lilo & Stitch,Adventure|Animation|Children|Sci-Fi,5/28/2016,4,5.72
+250,Tyler Perry's For Colored Girls,Drama,9/5/2016,5,6.53
+251,Collision Earth,Action|Sci-Fi,4/13/2017,1,6.33
+252,"Four Musketeers, The",Action|Adventure|Comedy|Romance,7/25/2015,4,6.51
+253,"Visit, The",Drama,3/22/2016,5,5.25
+254,Brother Bear,Adventure|Animation|Children,9/3/2017,2,4.51
+255,"Great White Silence, The",Documentary,7/26/2016,2,5.51
+256,Dog Run,Drama,5/19/2015,1,5.73
+257,Who Wants to Kill Jessie? (Kdo chce zabít Jessii?),Comedy|Sci-Fi,9/15/2017,1,5.89
+258,"Prisoner of Zenda, The",Action|Adventure|Romance,5/10/2015,2,6.53
+259,Sam Peckinpah: Man of Iron,Documentary,12/24/2017,4,4.71
+260,G Men,Crime|Drama,6/2/2017,5,5.76
+261,Jamie and Jessie Are Not Together,Comedy|Musical|Romance,1/5/2016,3,5.14
+262,Flight,Drama,6/22/2017,3,6.23
+263,Daughter of Dr. Jeckyll,Horror,8/21/2015,3,5.4
+264,Brassed Off,Comedy|Drama|Romance,12/24/2017,3,5.69
+265,"Descent, The",Adventure|Drama|Horror|Thriller,10/12/2016,4,5.5
+266,Nobody's Fool,Comedy|Drama|Romance,2/5/2016,3,4.58
+267,Tremors 3: Back to Perfection,Comedy|Horror|Sci-Fi,5/24/2015,3,5.54
+268,"Fifth Estate, The",Drama|Thriller,4/28/2017,4,5.79
+269,Theodora Goes Wild,Comedy|Romance,9/23/2017,4,6.69
+270,Asphalt,Drama,1/14/2015,4,6.72
+271,Seventh Heaven,Comedy|Romance,8/13/2017,4,6.13
+272,Chris Rock: Bring the Pain,Comedy,11/15/2016,5,5.76
+273,Generation P,Comedy|Drama|Sci-Fi,11/20/2016,4,5.48
+274,State of Siege (État de siège),Drama|Thriller,9/28/2016,3,6.22
+275,"Pink Panther, The",Comedy|Crime,10/30/2015,2,4.56
+276,The Final Girl,Drama,9/13/2016,4,5.13
+277,"Other One, The",Drama|Mystery,2/22/2017,2,5.24
+278,Anatomy of a Murder,Drama|Mystery,8/2/2015,2,5.09
+279,Bulworth,Comedy|Drama|Romance,6/20/2015,1,5.06
+280,Blackbeard's Ghost,Children|Comedy,1/4/2015,3,6.31
+281,Judex,Action|Crime|Drama,12/7/2017,5,5.15
+282,Robot Monster,Horror|Sci-Fi,3/9/2015,4,5.96
+283,Half a Loaf of Kung Fu (Dian zhi gong fu gan chian chan),Action|Comedy,8/28/2015,5,6.77
+284,Police Academy 2: Their First Assignment,Comedy|Crime,3/6/2017,1,6.18
+285,Walk All Over Me,Comedy|Crime|Drama,10/8/2016,4,5.98
+286,"Laterna, ftoheia kai garyfallo",Comedy|Drama|Romance,10/6/2015,4,6.23
+287,"Mariachi, El",Action|Crime|Thriller|Western,7/11/2017,5,6.08
+288,"Adventures of Huckleberry Finn, The",Adventure|Drama,3/28/2016,1,6.58
+289,9 Souls (Nain souruzu),Drama,8/19/2016,4,5.43
+290,Despicable Me,Animation|Children|Comedy|Crime,3/16/2015,2,5.17
+291,Bill Bailey: Tinselworm,Comedy|Documentary,2/10/2015,3,6.67
+292,What the #$*! Do We Know!? (a.k.a. What the Bleep Do We Know!?),Comedy|Documentary|Drama,7/28/2016,3,6.46
+293,Los Angeles Plays Itself,Documentary,9/29/2016,4,5.53
+294,Dangerous Liaisons,Drama|Romance,7/2/2017,5,4.96
+295,"Matrix Reloaded, The",Action|Adventure|Sci-Fi|Thriller|IMAX,8/29/2017,3,6.73
+296,"Counselor, The",Crime|Drama|Thriller,3/15/2016,5,5.02
+297,Carriers,Drama|Horror|Thriller,3/17/2016,5,6.35
+298,This Film Is Not Yet Rated,Documentary,1/17/2015,2,5.19
+299,Slackers,Comedy,11/21/2016,3,5.64
+300,Gold Raiders,Comedy|Western,10/16/2016,1,6.69
+301,"Thousand Clouds of Peace, A (Mil nubes de paz cercan el cielo, amor, jamás acabarás de ser amor)",Drama|Romance,4/29/2017,5,6.46
+302,Smokin' Aces,Action|Crime|Drama|Thriller,5/14/2015,2,5.18
+303,24 7: Twenty Four Seven,Comedy|Drama,10/16/2016,2,5.28
+304,Bushwhacked,Adventure|Comedy|Crime|Mystery,7/6/2017,4,5.77
+305,Ginger Snaps: Unleashed,Horror|Thriller,1/23/2016,5,5.43
+306,Newsfront,Drama,10/9/2015,4,6.3
+307,Little Big Man,Western,5/22/2015,4,5.25
+308,Transit,Crime|Drama|Thriller,9/23/2015,4,6.55
+309,First Person Plural,Documentary,7/15/2017,4,5.83
+310,The Outsider,Action|Crime|Drama,10/4/2015,4,5.99
+311,Rewind This!,Documentary,7/25/2016,5,4.95
+312,"Girl Next Door, The",Crime|Drama|Horror|Thriller,5/21/2017,1,5.03
+313,Sabotage,Thriller,4/28/2017,5,5.41
+314,Go for Zucker! (Alles auf Zucker!),Comedy,8/24/2017,2,5.42
+315,Incendiary,Drama|Mystery|Romance|Thriller,12/30/2016,1,5.65
+316,Vertical Features Remake,Documentary,12/4/2016,3,6.07
+317,"Vitelloni, I (a.k.a. The Young and the Passionate)",Drama,6/21/2017,5,6.1
+318,North West Mounted Police,Action|Adventure|Drama|Romance|Western,3/23/2016,4,6.37
+319,Illusion Of Blood,Fantasy|Horror,8/23/2017,1,4.61
+320,Chalet Girl,Comedy|Romance,10/19/2016,4,5.79
+321,Brenda Starr,Adventure,11/22/2017,2,5.18
+322,Randy Rides Alone,Western,9/30/2017,3,5.52
+323,Sin Nombre,Crime|Drama|Thriller,7/27/2017,2,5.83
+324,Trio,Drama|Romance,2/17/2015,1,5.21
+325,"Reluctant Debutante, The",Comedy|Drama,6/28/2017,3,6.76
+326,Diva,Action|Drama|Mystery|Romance|Thriller,10/11/2017,5,6.7
+327,Far Cry,Action|Adventure|Drama,4/6/2017,2,6.32
+328,Halloween 5: The Revenge of Michael Myers,Horror,1/27/2016,2,5.4
+329,Wishmaster 2: Evil Never Dies,Fantasy|Horror,1/19/2015,5,4.63
+330,David and Lisa,Drama,3/12/2017,5,5.59
+331,"Perfect Man, The",Comedy|Drama|Romance,5/25/2016,1,6.41
+332,Trespass,Crime|Drama|Thriller,8/28/2017,4,4.85
+333,Rovaniemen markkinoilla,Comedy|Musical,5/21/2016,1,6.57
+334,Blood in the Mobile,Documentary,4/23/2017,4,4.7
+335,Endless Love,Drama|Romance,3/13/2015,1,6.53
+336,Edges of the Lord,Drama|War,11/18/2015,3,6.24
+337,Rififi (Du rififi chez les hommes),Crime|Film-Noir|Thriller,6/30/2015,1,6.18
+338,Easier with Practice,Drama|Romance,9/28/2016,4,5.17
+339,Television Under the Swastika (Das Fernsehen unter dem Hakenkreuz),Documentary,7/26/2017,2,5.82
+340,Slave Ship,Adventure|Drama,1/25/2017,3,4.96
+341,Jerry Springer: Ringmaster,Comedy|Drama,11/5/2017,1,4.73
+342,Tokyo Zombie (Tôkyô zonbi),Action|Comedy|Horror,5/16/2015,4,5.69
+343,Mr. Nice Guy (Yat goh ho yan),Action|Comedy,4/25/2015,3,4.7
+344,Blade of the Ripper,Drama|Horror|Mystery|Romance|Thriller,2/1/2017,5,4.74
+345,Dogfight,Drama|Romance,3/23/2016,5,5.93
+346,Breathless (À bout de souffle),Crime|Drama|Romance,12/6/2016,1,4.9
+347,Ringers: Lord of the Fans,Comedy|Documentary,10/19/2015,2,4.66
+348,Drowning by Numbers,Comedy|Drama,10/22/2015,4,5.04
+349,Policeman (Ha-shoter),Drama,4/15/2017,5,6.55
+350,Death on the Nile,Crime|Mystery,6/3/2016,2,6.44
+351,"Nature of the Beast, The",Crime|Horror|Mystery|Thriller,9/14/2016,5,5.58
+352,"Cobweb, The",Drama,3/17/2017,4,5.05
+353,To Catch a Thief,Crime|Mystery|Romance|Thriller,3/23/2015,4,5.36
+354,Public Access,Drama|Thriller,12/21/2017,3,4.81
+355,Random Harvest,Drama|Romance,10/21/2015,5,6.71
+356,Best Boy,Documentary,1/11/2016,5,4.62
+357,Guinevere,Drama|Romance,3/18/2015,5,6.0
+358,Go Fish,Drama|Romance,10/27/2017,2,5.85
+359,It's Kind of a Funny Story,Comedy|Drama,6/10/2015,2,5.89
+360,Bloody Sunday,Drama,2/13/2015,4,5.49
+361,Mary of Scotland,Drama,1/22/2017,3,4.72
+362,"Cloud-Capped Star, The (Meghe Dhaka Tara)",Drama,7/5/2015,5,4.71
+363,Ricky & Barabba,Comedy,1/9/2016,1,5.14
+364,"Toxic Avenger, The",Comedy|Horror,10/18/2016,4,5.45
+365,Ca$h,Crime|Thriller,1/6/2015,1,6.34
+366,Carnage,Comedy|Drama,2/4/2017,1,6.48
+367,"White Dwarf, The (Valkoinen kääpiö)",Drama,2/19/2016,5,6.5
+368,One Spy Too Many,Adventure|Crime,3/2/2017,2,6.56
+369,Freedomfighters (Libertarias),Drama|War,7/14/2017,2,5.85
+370,Zone 39,Sci-Fi,9/16/2016,1,6.03
+371,On a Clear Day You Can See Forever,Comedy|Musical|Romance,3/9/2017,5,4.56
+372,"Dangerous Method, A",Drama|Thriller,10/2/2015,4,6.14
+373,Murphy's Law,Action,7/25/2015,3,5.12
+374,FairyTale: A True Story,Children|Drama|Fantasy,9/30/2016,2,5.31
+375,"Flying Deuces, The",Comedy,6/27/2016,3,6.56
+376,"Move Over, Darling",Comedy|Romance,7/6/2017,2,5.13
+377,"Last Exorcism, The",Horror|Thriller,7/15/2015,3,5.5
+378,We Were Soldiers,Action|Drama|War,4/25/2016,2,4.99
+379,Legend of the Eight Samurai (Satomi hakken-den),Action|Adventure|Drama|Fantasy,3/26/2015,1,4.9
+380,"Band's Visit, The (Bikur Ha-Tizmoret)",Comedy|Drama,12/24/2015,3,5.67
+381,Wild Wild West,Action|Comedy|Sci-Fi|Western,12/21/2016,4,5.7
+382,Film Geek,Comedy,5/5/2015,1,5.12
+383,Snake in the Eagle's Shadow (Se ying diu sau),Action|Comedy,1/13/2017,1,5.19
+384,Land Before Time III: The Time of the Great Giving,Adventure|Animation|Children|Musical,7/5/2017,2,5.3
+385,This Thing With Sarah,Comedy|Drama|Romance,4/23/2017,3,5.42
+386,Mulholland Falls,Crime|Drama|Thriller,6/5/2016,4,4.92
+387,"Man Called Sledge, A",Western,8/22/2016,2,4.53
+388,"Giant of Marathon, The (Battaglia di Maratona, La)",Action|Drama|War,11/6/2015,4,5.71
+389,Angel Face,Crime|Drama|Film-Noir,7/7/2017,4,4.52
+390,Child Bride,Drama,7/5/2017,2,6.56
+391,Thunder Bay,Adventure,11/6/2016,2,6.23
+392,See No Evil,Crime|Drama|Horror|Thriller,7/31/2017,4,6.68
+393,Something Wild,Comedy|Crime|Drama,7/27/2017,3,4.53
+394,Haunt,Horror|Mystery,8/17/2016,5,6.13
+395,Hunting Elephants,Comedy|Crime,3/11/2016,1,5.01
+396,City Hunter (Sing si lip yan),Action|Comedy|Romance,10/20/2017,5,6.35
+397,Duplicate,Comedy|Crime|Musical,11/18/2017,5,5.31
+398,Soul Kitchen,Comedy,4/15/2015,5,4.97
+399,"Captain's Paradise, The",Comedy,11/20/2017,1,5.06
+400,Lilies,Drama|Fantasy|Romance,8/16/2015,1,6.12
+401,"Kentuckian, The",Drama|Western,3/16/2016,1,6.22
+402,Harvie Krumpet,Animation|Comedy|Drama,8/21/2015,5,6.0
+403,"Final Season, The",Drama,3/16/2015,3,5.15
+404,All Quiet on the Western Front,Action|Drama|War,12/24/2016,3,6.18
+405,"Judge and the Assassin, The (Juge et l'assassin, Le)",Crime|Drama,6/4/2017,5,5.97
+406,Evidence,Documentary,4/8/2015,2,5.27
+407,Afstiros katallilo,Comedy,7/10/2017,5,5.04
+408,Kinyarwanda,Drama|Romance,4/15/2015,5,6.25
+409,Gone Baby Gone,Crime|Drama|Mystery,12/30/2015,2,5.71
+410,B. Monkey,Crime|Romance|Thriller,5/13/2016,5,6.0
+411,Gurren Lagann: The Lights in the Sky are Stars (Gekijô ban Tengen toppa guren ragan: Ragan hen),Adventure|Animation|Drama|Sci-Fi|War,12/10/2015,2,6.75
+412,"Ella Lola, a la Trilby",(no genres listed),10/3/2015,5,4.97
+413,Ju Dou,Drama,6/5/2015,5,4.52
+414,Albino Alligator,Crime|Thriller,11/27/2017,1,6.3
+415,"Nude Bomb, The",Comedy,1/20/2015,4,5.01
+416,Take This Waltz,Drama|Romance,1/6/2017,1,5.34
+417,Foxy Brown,Action|Crime|Drama,8/21/2016,2,6.51
+418,"Impossible, The (Imposible, Lo)",Drama|Thriller,5/4/2017,3,4.56
+419,Phantom of the Woods,Drama|Horror|Thriller,12/24/2016,2,6.44
+420,Feast III: The Happy Finish,Action|Comedy|Horror,3/21/2016,4,5.4
+421,Of Time and the City,Documentary,11/27/2015,3,6.19
+422,Titanic Town,Drama,10/4/2015,4,6.12
+423,Hidalgo,Adventure|Drama,4/25/2017,4,5.26
+424,The Time of Their Lives,Comedy|Fantasy|Romance|Thriller,3/24/2015,2,5.46
+425,Pauline détective,Comedy,11/14/2016,4,6.28
+426,Far Out Man,Comedy,3/10/2015,1,5.91
+427,4.3.2.1,Crime|Thriller,3/23/2016,5,5.57
+428,"Outside Man, The (Un homme est mort)",Action|Crime|Drama|Thriller,2/18/2017,1,5.53
+429,"Roaring Twenties, The",Crime|Drama|Thriller,6/17/2016,4,4.58
+430,Juliet of the Spirits (Giulietta degli spiriti),Comedy|Drama|Fantasy|Romance,5/30/2016,4,5.54
+431,Chicago,Comedy|Crime|Drama|Musical,8/22/2016,1,6.23
+432,Countdown to Zero,Documentary,12/10/2015,5,4.8
+433,"Bad News Bears, The",Comedy,7/25/2016,1,5.58
+434,"Damsel in Distress, A",Comedy|Musical|Romance,8/3/2016,5,5.24
+435,Ninja: Shadow of a Tear,Action|Crime|Thriller,6/2/2016,3,5.19
+436,Voices from the List,Documentary,11/4/2016,4,4.89
+437,"Silent Night, Deadly Night III: Better Watch Out!",Horror,1/5/2016,4,5.36
+438,Madhouse,Crime|Horror|Mystery,3/16/2015,2,5.97
+439,Funny People,Comedy|Drama,9/17/2016,5,5.46
+440,"Blade, The (Dao)",Action|Drama,6/5/2017,5,6.14
+441,Two Solutions for One Problem (Dow Rahehal Baraye yek Massaleh),(no genres listed),1/15/2017,4,6.43
+442,"Month by the Lake, A",Comedy|Drama|Romance,9/25/2015,3,4.71
+443,Lady in the Lake,Crime|Drama|Film-Noir|Mystery|Romance,8/2/2016,4,6.34
+444,Hellbenders,Comedy|Horror|Thriller,4/13/2016,4,4.55
+445,Striking Range,Action|Thriller,8/8/2016,3,5.37
+446,Beneath the Darkness,Thriller,2/18/2016,2,6.8
+447,"Big Steal, The",Adventure|Drama|Film-Noir|Thriller,7/24/2016,3,5.84
+448,The Land Before Time XII: The Great Day of the Flyers,Animation|Children|Sci-Fi,3/1/2017,2,5.12
+449,Carless Love,Drama,5/5/2017,4,6.51
+450,Mr. Smith Goes to Washington,Drama,11/6/2017,4,4.77
+451,Run for Cover,Western,7/26/2015,3,6.37
+452,"Far Horizons, The",Western,8/2/2016,4,5.89
+453,Gardenia,Crime,6/19/2015,5,6.47
+454,"Happenstance (Battement d'ailes du papillon, Le)",Comedy|Drama,11/2/2016,3,5.63
+455,Super Rich: The Greed Game,Documentary,10/2/2015,3,5.59
+456,"FBI Story, The",Crime|Drama|Thriller,10/8/2015,4,6.4
+457,"No God, No Master",Crime|Drama|Thriller,4/5/2017,1,5.82
+458,"Master of Disguise, The",Comedy|Mystery,2/26/2016,5,5.52
+459,This Girl's Life,Drama,5/5/2015,5,5.25
+460,Slumdog Millionaire,Crime|Drama|Romance,12/20/2017,1,5.16
+461,Heart Like a Wheel,Drama,8/6/2015,5,5.9
+462,Taming the Fire (Ukroshcheniye ognya),Documentary|Drama|Sci-Fi,2/24/2016,2,5.76
+463,"Tortured, The",Horror|Thriller,6/11/2015,4,5.29
+464,Karlsson on the Roof,Children,9/13/2016,4,5.32
+465,"Court Jester, The",Adventure|Comedy|Musical,5/4/2017,4,6.53
+466,La nación clandestina,Drama,5/31/2017,4,4.54
+467,Velvet Goldmine,Drama,8/9/2017,5,5.93
+468,"Short Film About John Bolton, A",Fantasy|Horror|Mystery,8/16/2016,2,6.61
+469,Shanghai Dreams (Qing hong),Drama,2/18/2015,1,6.02
+470,"Story of Seabiscuit, The",Drama|Romance,3/12/2015,2,5.57
+471,Paris When It Sizzles,Comedy|Romance,6/27/2016,4,5.32
+472,"Children of Glory (Szabadság, szerelem)",Drama|Romance|War,5/26/2015,4,6.37
+473,Body of Lies,Action|Drama|Thriller,6/26/2017,5,6.47
+474,Shoot 'Em Up,Action|Comedy|Crime,10/21/2017,5,6.08
+475,Waking Ned Devine (a.k.a. Waking Ned),Comedy,9/30/2016,1,4.9
+476,"Cup, The (Phörpa)",Comedy,10/20/2015,2,4.63
+477,"Last Klezmer: Leopold Kozlowski, His Life and Music, The",Documentary,1/5/2015,4,6.78
+478,"Chronicles of Narnia: Prince Caspian, The",Adventure|Children|Fantasy,2/13/2015,1,5.69
+479,My Amityville Horror,Documentary,9/28/2015,3,6.17
+480,1776,Children|Drama|Musical,8/31/2016,5,4.86
+481,"Octopus, The (Le poulpe)",Comedy|Crime|Thriller,3/3/2016,1,5.27
+482,Moonbase,Sci-Fi,6/9/2017,5,4.67
+483,Running Out of Time (Am zin),Action|Crime|Drama|Thriller,1/2/2015,1,6.55
+484,Do You Wanna Know a Secret?,Horror|Mystery|Thriller,10/12/2017,1,6.21
+485,White Elephant,Drama,7/25/2015,2,5.07
+486,Gamera: The Giant Monster (Daikaijû Gamera),Sci-Fi,6/27/2016,2,6.2
+487,I Am David,Drama,4/23/2015,1,4.55
+488,Salinger,Documentary,12/8/2016,2,5.43
+489,"Iron Lady, The",Drama,5/20/2016,2,5.53
+490,Offside,Comedy|Drama,4/15/2016,1,5.45
+491,"Favor, The",Comedy|Romance,1/15/2016,4,6.51
+492,Missionary Man,Action|Drama|Thriller|Western,12/4/2017,4,5.73
+493,"Bodyguard, The",Drama|Romance|Thriller,8/31/2015,2,5.15
+494,"Good Morning, Night (Buongiorno, notte)",Drama,4/23/2017,4,4.59
+495,Under the Sun of Satan (Sous le soleil de Satan),Drama,1/17/2016,5,4.99
+496,Poolsite,Crime|Drama,2/21/2017,5,5.84
+497,"Huey P. Newton Story, A",Documentary,3/20/2017,5,5.22
+498,"People vs. George Lucas, The",Documentary,2/20/2017,4,6.54
+499,Houdini,Drama,6/6/2015,1,6.01
+500,Sirocco,Action|Drama,3/12/2017,2,4.8
+501,Terminator 3: Rise of the Machines,Action|Adventure|Sci-Fi,2/12/2015,1,6.23
+502,13Hrs,Adventure|Mystery,7/18/2015,4,6.45
+503,Lawnmower Man 2: Beyond Cyberspace,Action|Sci-Fi|Thriller,11/16/2015,2,5.8
+504,Another Day in Paradise,Drama,9/6/2017,3,5.96
+505,Attila,Action|Horror|Thriller,8/4/2016,3,5.8
+506,Unknown White Male,Documentary,11/3/2015,5,5.35
+507,Long Time Dead,Horror|Thriller,6/11/2017,3,6.7
+508,Relative Fear,Horror|Thriller,9/21/2016,5,4.95
+509,"Simple-Minded Murder, The (Enfaldige mördaren, Den)",Drama,4/7/2015,5,4.96
+510,Go for It,Action|Adventure|Comedy,5/10/2017,1,6.58
+511,Man's Favorite Sport?,Comedy,4/2/2015,3,6.59
+512,The Boyfriend School,Comedy|Romance,9/13/2015,3,6.4
+513,"Most Wanted Man, A",Thriller,6/23/2017,3,5.11
+514,Oxygen,Drama|Musical,5/24/2016,1,6.6
+515,They Won't Believe Me,Drama|Film-Noir,12/10/2017,5,4.88
+516,Great Expectations,Drama|Romance,6/16/2017,1,5.57
+517,Wind,Action|Romance,4/22/2015,4,6.18
+518,"Pleasure Seekers, The",Comedy|Musical|Romance,10/10/2015,1,6.43
+519,Nobody's Fool,Comedy|Romance,9/17/2016,4,6.39
+520,Demon Wind,Horror,5/16/2017,2,5.91
+521,Yuki & Nina,Drama,12/2/2015,2,5.94
+522,Eight Men Out,Drama,3/23/2017,5,5.01
+523,"Sicilian, The",Crime|Drama,4/20/2016,5,5.1
+524,"Heat, The",Action|Comedy|Crime,4/8/2015,1,4.97
+525,If a Man Answers,Comedy,1/12/2016,5,5.78
+526,"Organization, The",Crime|Drama|Thriller,4/16/2015,5,5.8
+527,Margot at the Wedding,Drama,11/9/2016,1,6.1
+528,Oranges and Sunshine,Drama,2/6/2017,3,6.02
+529,"Hunting Party, The",Action|Adventure|Comedy|Drama|Thriller,10/20/2016,3,4.74
+530,Stranger on the Third Floor,Drama|Film-Noir,6/5/2016,3,5.39
+531,"Next Best Thing, The",Comedy|Drama,1/6/2015,1,6.3
+532,Calendar Girls,Comedy,3/11/2016,2,6.0
+533,Nativity!,Children|Comedy|Musical,2/28/2016,5,4.52
+534,Waxwork,Comedy|Horror,11/29/2016,3,6.23
+535,Jack Frost,Children|Comedy|Drama,1/22/2015,5,6.65
+536,Chastity Bites,Comedy|Horror,4/1/2016,1,5.7
+537,"River, The (Joki)",Drama,6/18/2015,5,4.84
+538,Letters from Iwo Jima,Drama|War,6/4/2015,5,6.48
+539,Step Into Liquid,Documentary,1/2/2017,3,5.7
+540,Against the Current,Drama,4/25/2016,3,5.09
+541,Maryam,Drama,1/13/2016,3,6.12
+542,"Last Warrior, The (Last Patrol, The)",Action|Drama,11/21/2016,3,6.12
+543,Toolbox Murders,Horror|Mystery,3/3/2017,5,5.19
+544,Battles Without Honor & Humanity (Jingi naki tatakai),Crime|Drama,7/26/2015,3,5.71
+545,Dracula: Dead and Loving It,Comedy|Horror,12/18/2016,5,5.53
+546,Pigs,Comedy,4/12/2015,1,5.73
+547,"Sicilian Clan, The (Clan des Siciliens, Le)",Crime|Drama,3/3/2017,3,5.36
+548,Scandal (Shubun),Drama,8/12/2017,3,5.29
+549,Untamed Heart,Drama|Romance,11/1/2016,3,5.44
+550,"Nightmare Castle (Amanti d'oltretomba) (Lovers from Beyond the Tomb) (Faceless Monster, The)",Horror,2/23/2016,3,5.52
+551,The Tattooist,Horror|Thriller,11/16/2017,4,6.34
+552,Seoul Searching,Comedy|Drama,12/13/2015,5,5.1
+553,"Wake Up, Ron Burgundy",Comedy,3/7/2017,2,5.25
+554,Tune in Tomorrow...,Comedy|Romance,8/17/2016,4,6.65
+555,"Bolero (Uns et les autres, Les)",Drama|War,7/15/2017,2,5.38
+556,Outpost,Action|Horror,10/13/2015,5,6.02
+557,After the Fox (Caccia alla volpe),Comedy|Crime,7/14/2017,5,5.53
+558,Elektra,Action|Adventure|Crime|Drama,5/23/2016,4,6.76
+559,"Rocket, The (a.k.a. Maurice Richard)",Drama,5/2/2017,4,5.21
+560,"Eiger Sanction, The",Action|Adventure|Drama|Thriller,1/21/2016,5,6.61
+561,"In-Laws, The",Action|Comedy,1/21/2015,5,5.81
+562,Three Kingdoms: Resurrection of the Dragon (Saam gwok dzi gin lung se gap),Action|Drama|War,12/13/2017,3,6.47
+563,"Black Orchid, The",Drama,10/6/2015,3,5.5
+564,I Spy,Action|Adventure|Comedy|Crime,1/18/2015,4,5.93
+565,Come Dance with Me!,Crime|Drama|Mystery,2/6/2015,2,5.24
+566,Silence (Chinmoku),Drama,6/4/2015,3,5.95
+567,"Killer Meteors, The (Feng yu shuang liu xing)",Action|Thriller,12/24/2015,3,5.83
+568,Blow-Out (La grande bouffe),Drama,7/3/2015,1,4.63
+569,Morgan!,Comedy|Drama|Fantasy,1/1/2017,1,5.37
+570,Two Bits,Drama,6/30/2015,1,5.2
+571,Homework,(no genres listed),4/12/2016,2,4.67
+572,King Kong vs. Godzilla (Kingukongu tai Gojira),Action|Sci-Fi,6/20/2015,3,6.62
+573,Leontine,Comedy|Crime,3/13/2015,4,6.49
+574,"Long Ride Home, The",Romance|Western,7/6/2017,1,6.66
+575,Set Me Free (Emporte-moi),Drama,3/29/2016,5,6.09
+576,Remember Sunday,Drama|Romance,4/10/2017,3,5.31
+577,Surviving the Game,Action|Adventure|Thriller,2/14/2017,2,5.08
+578,Flags of Our Fathers,Drama|War,6/3/2015,5,5.29
+579,José and Pilar (José e Pilar),Documentary,3/29/2016,3,5.84
+580,Airplane!,Comedy,11/5/2016,2,5.73
+581,Jane Eyre,Drama,9/21/2015,4,5.2
+582,"Ordeal, The (Calvaire)",Drama|Horror,11/4/2015,5,6.22
+583,"Price Above Rubies, A",Drama,8/23/2015,3,5.97
+584,"Ace of Aces (a.k.a. Super Ace, The) (As des as, L')",Adventure|Comedy,4/25/2017,1,5.88
+585,Ito: A Diary of an Urban Priest (Seitti - kilvoittelijan päiväkirja),Documentary,4/3/2015,5,5.66
+586,Happy Family,Comedy,5/19/2017,5,6.06
+587,"Magnificent Yankee, The",Drama,8/30/2017,2,5.47
+588,Barnyard: The Original Party Animals,Animation|Children|Comedy,8/17/2017,1,6.01
+589,"Reuben, Reuben",Comedy|Drama|Romance,11/30/2016,1,5.84
+590,Big Stan,Comedy,10/10/2015,1,5.82
+591,Liberty,Comedy,7/22/2017,5,6.36
+592,"Hamlet, Prince of Denmark",Drama,6/5/2017,5,5.12
+593,"Velvet Vampire, The",Fantasy|Horror,2/16/2015,1,6.58
+594,Ricky & Barabba,Comedy,8/16/2016,4,5.7
+595,My Fair Lady,Comedy|Drama|Musical|Romance,10/27/2016,1,6.56
+596,Seven Chances,Comedy,3/28/2017,4,6.11
+597,Single White Female,Drama|Thriller,11/30/2017,2,6.01
+598,Ladrones,Drama,10/31/2017,5,5.02
+599,Outsourced,Comedy|Romance,2/23/2016,3,4.81
+600,"Farewell to Arms, A",Romance|War,12/2/2016,3,6.52
+601,"Valachi Papers,The",Crime|Drama,7/3/2017,5,6.48
+602,Desert Saints,Action|Thriller,11/19/2017,1,6.29
+603,Sons of Perdition,Documentary,6/13/2017,2,6.43
+604,White Fang 2: Myth of the White Wolf,Adventure|Children,1/24/2017,2,5.91
+605,Business as Usual,Drama,1/4/2017,1,4.63
+606,"Strangler, The",Horror,6/3/2015,3,6.33
+607,Note by Note: The Making of Steinway L1037,Documentary,5/22/2017,5,6.04
+608,Captivated,Documentary,3/27/2015,1,4.54
+609,Sincerely Yours,Drama|Musical,4/14/2016,4,6.28
+610,Under the Skin,Drama,9/4/2016,3,5.87
+611,Shaolin Temple 2: Kids from Shaolin (Shao Lin xiao zi) (Kids from Shaolin),Action|Comedy,1/27/2015,3,5.87
+612,Paranormal Activity 4,Horror|IMAX,6/14/2017,2,6.5
+613,White House Down,Action|Drama|Thriller|IMAX,9/24/2015,1,4.86
+614,Used People,Comedy|Drama,10/6/2015,3,6.51
+615,Aurora,Romance|Sci-Fi,5/2/2016,5,6.57
+616,Involuntary (De ofrivilliga),Drama,11/2/2015,1,5.38
+617,Endangered Species,Mystery|Sci-Fi|Thriller,3/21/2015,3,5.26
+618,Men of War,Action|Drama,1/25/2017,3,6.49
+619,Sherlock Holmes: The Woman in Green,Mystery,2/10/2016,4,5.59
+620,"Truth, The ",Thriller,4/1/2016,1,6.54
+621,Cardcaptor Sakura: The Sealed Card,Adventure|Animation|Comedy|Fantasy|Romance,7/27/2015,1,5.6
+622,Poetic Justice,Drama,8/3/2016,5,5.43
+623,Phantom (O Fantasma),Drama,12/13/2017,1,5.72
+624,Edge of Seventeen,Comedy|Drama|Romance,6/26/2015,1,6.15
+625,"Apartment, The",Comedy|Drama|Romance,10/11/2015,3,5.75
+626,"Tic Code, The",Drama,10/4/2016,2,6.32
+627,300,Action|Fantasy|War|IMAX,9/21/2017,3,6.45
+628,Omen IV: The Awakening,Horror|Mystery|Thriller,8/26/2017,4,5.77
+629,It's a Very Merry Muppet Christmas Movie,Children|Comedy,6/4/2017,4,4.87
+630,"Brasher Doubloon, The",Crime|Drama|Film-Noir|Mystery,11/6/2015,3,6.45
+631,Don't Look Now,Drama|Horror|Thriller,7/21/2016,2,4.78
+632,Steal This Film,Documentary,11/19/2015,3,5.38
+633,Going the Distance,Comedy,3/6/2015,4,6.12
+634,Breaking and Entering,Drama,8/31/2017,2,5.34
+635,Inside Job,Documentary,5/2/2015,3,5.45
+636,Who Can Kill a Child? (a.k.a. Island of the Damned) (¿Quién puede matar a un niño?),Horror|Mystery|Thriller,11/25/2016,1,5.35
+637,"Irony of Fate, or Enjoy Your Bath! (Ironiya sudby, ili S legkim parom!)",Comedy|Drama|Romance,8/22/2015,5,4.81
+638,Polite People (Kurteist fólk),Comedy|Drama,2/1/2015,3,6.06
+639,"Working Class Goes to Heaven, The (a.k.a. Lulu the Tool) (La classe operaia va in paradiso)",Drama,6/22/2016,4,4.97
+640,She,Adventure|Fantasy|Romance,10/6/2015,3,6.04
+641,"Fuck You, Goethe (Fack Ju Göhte)",Comedy,8/30/2015,3,4.74
+642,All About Actresses (Le bal des actrices),Comedy|Drama,9/27/2017,4,4.82
+643,"Food, Inc.",Documentary,5/20/2017,4,6.59
+644,Blame It on Rio,Comedy|Romance,5/3/2017,2,6.39
+645,Accomplices (Complices),Crime|Mystery,12/7/2016,2,5.42
+646,Inuyasha the Movie: The Castle Beyond the Looking Glass,Action|Animation|Comedy|Romance,4/20/2017,3,4.61
+647,The Suspicious Death of a Minor,Comedy|Crime|Thriller,2/13/2017,3,5.56
+648,Gen 13 (a.k.a. Gen13: The Animated Movie),Action|Animation|Sci-Fi,11/17/2015,1,5.57
+649,Prey for Rock & Roll,Drama|Musical,11/20/2016,2,6.42
+650,Night Train,Drama|Mystery|Thriller,4/7/2016,1,5.95
+651,Nothing to Lose (a.k.a. Ten Benny),Drama,8/21/2015,3,5.74
+652,Giliap,Crime|Drama,10/30/2017,3,6.77
+653,Monty Python Live at the Hollywood Bowl,Comedy,7/25/2016,5,4.92
+654,Four Sons,Drama|War,12/17/2016,3,5.29
+655,"Tale of Winter, A (a.k.a. A Winter's Tale) (Conte d'hiver)",Drama,3/18/2015,4,5.77
+656,"Player's Club, The",Comedy|Drama,12/22/2015,2,5.51
+657,Ten Skies,Documentary,5/31/2015,4,5.29
+658,Cain and Mabel,Comedy|Musical|Romance,9/18/2016,2,6.51
+659,"Accidental Tourist, The",Comedy|Drama|Romance,2/21/2017,3,6.27
+660,Futurama: Bender's Game,Action|Adventure|Animation|Comedy|Fantasy|Sci-Fi,3/19/2017,4,6.79
+661,Cowboy del Amor,Documentary,7/25/2016,1,4.99
+662,Lady in a Cage,Drama|Thriller,2/7/2017,2,5.0
+663,Tyler Perry's A Madea Christmas,Comedy,4/10/2017,2,4.64
+664,Gunner Palace,Documentary|War,1/15/2016,4,6.72
+665,Steam: The Turkish Bath (Hamam),Drama|Romance,5/23/2015,5,5.65
+666,Imagine Me & You,Comedy|Drama|Romance,9/13/2016,5,5.52
+667,Waking Madison ,Drama,11/12/2017,2,4.78
+668,Alcina,Drama|Fantasy|Romance,12/15/2016,4,6.02
+669,"Legend of Sleepy Hollow, The",Animation|Comedy|Horror|Musical,3/29/2017,4,5.18
+670,Stagecoach,Action|Drama|Romance|Western,3/16/2015,1,5.54
+671,"Pom Poko (a.k.a. Raccoon War, The) (Heisei tanuki gassen pompoko)",Animation|Comedy|Drama|Fantasy,12/18/2017,1,5.53
+672,"Time Traveler's Wife, The",Drama|Romance|Sci-Fi,4/15/2015,1,5.85
+673,Restless (Uro),Action|Crime|Thriller,6/28/2016,1,5.52
+674,Mercenary for Justice,Action,3/27/2015,2,6.16
+675,Screamers: The Hunting,Sci-Fi|Thriller,7/9/2016,1,6.55
+676,Just Another Love Story (Kærlighed på film),Crime|Drama|Thriller,7/6/2015,5,6.42
+677,"Hunted, The",Action|Drama|Thriller,4/12/2017,5,6.35
+678,Garfield: A Tail of Two Kitties,Animation|Children|Comedy,9/8/2016,5,6.8
+679,"Wicked Lady, The",Adventure|Drama,9/1/2017,2,6.74
+680,Force 10 from Navarone,Action|Drama|War,3/28/2015,1,4.51
+681,Horror of Dracula (Dracula),Horror,7/10/2015,4,5.89
+682,Every Day,Comedy|Drama,9/12/2017,1,6.54
+683,Film ist. 7-12,Documentary,10/18/2017,1,4.93
+684,"Playboys, The",Drama|Romance,3/16/2017,1,6.02
+685,West Point,Drama|Romance,7/30/2017,4,5.41
+686,Nothing Sacred,Comedy|Drama|Romance,12/22/2017,4,6.08
+687,Arrowsmith,Drama,1/9/2015,3,4.8
+688,Kicking and Screaming,Comedy|Drama,12/21/2017,2,4.62
+689,Dracula: Pages from a Virgin's Diary,Horror|Mystery,1/17/2016,2,4.8
+690,Carbon Copy,Comedy,6/16/2015,3,5.38
+691,10 Things I Hate About You,Comedy|Romance,4/24/2015,4,5.25
+692,Hours,Drama|Thriller,9/15/2015,1,6.14
+693,EDtv,Comedy,12/14/2015,1,6.65
+694,Haunter,Horror|Mystery|Thriller,2/25/2016,4,6.32
+695,"Story of Me, The (O contador de histórias)",Drama,12/17/2017,1,6.23
+696,Eloise at the Plaza,Children|Comedy|Mystery,4/19/2016,4,5.75
+697,Homicidal,Horror|Mystery|Thriller,2/17/2015,1,4.75
+698,Brother,Action|Crime|Thriller,8/27/2015,5,6.02
+699,"River, The",Drama|Romance,10/4/2015,1,6.32
+700,"Bo Burnham: Words, Words, Words",Comedy,6/8/2017,1,4.55
+701,"Khroustaliov, My Car! (Khrustalyov, mashinu!)",Comedy|Drama,4/24/2016,2,4.8
+702,Athena,Comedy|Musical|Romance,7/5/2016,3,4.52
+703,Tarzan,Adventure|Animation|Children|Drama,6/6/2017,3,5.22
+704,All Passion Spent,Drama,12/3/2015,1,5.92
+705,Solino,Comedy|Drama,11/5/2016,5,6.18
+706,Che: Part One,Drama|War,10/4/2017,4,6.36
+707,"Snow Walker, The",Adventure|Drama,9/22/2015,1,5.26
+708,Goldengirl,(no genres listed),6/4/2016,1,4.84
+709,"Paris, France",Comedy,12/26/2015,5,5.29
+710,Divine Madness!,Comedy,2/20/2017,4,6.09
+711,Every Man for Himself (Slow Motion) (Sauve qui peut (la vie)),Drama,2/19/2016,3,5.36
+712,"Flame of New Orleans, The",Comedy|Romance,12/27/2016,4,6.66
+713,Confidential Report,Crime|Drama|Mystery|Thriller,7/22/2017,5,4.79
+714,M. Butterfly,Drama|Romance,6/8/2015,2,4.54
+715,Wetlands (Feuchtgebiete),Comedy|Drama,11/24/2016,4,5.6
+716,"Canterbury Tales, The (I racconti di Canterbury)",Comedy|Drama,1/15/2017,3,4.64
+717,Three Days (Tres días),Crime|Drama|Fantasy,5/2/2016,2,6.66
+718,Flags of Our Fathers,Drama|War,5/18/2015,3,6.64
+719,Container,Drama|Horror,8/31/2016,1,5.91
+720,12 O'Clock Boys,Documentary,12/29/2017,2,6.25
+721,Mortal Kombat,Action|Adventure|Fantasy,11/27/2017,5,6.47
+722,"Adventure in Space and Time, An",Drama,3/27/2015,3,6.76
+723,Once Upon a Warrior (Anaganaga O Dheerudu),Action|Adventure|Fantasy|Musical|Romance,8/17/2017,5,5.3
+724,My Dog Skip,Children|Drama,6/30/2016,1,5.83
+725,Thousands Cheer,Comedy|Drama|Musical,5/5/2017,3,6.36
+726,I Am Number Four,Action|Sci-Fi|Thriller|IMAX,2/6/2017,5,5.94
+727,Dumb and Dumberer: When Harry Met Lloyd,Comedy,4/26/2015,5,5.79
+728,"Killing Machine, The (Icarus)",Action|Drama|Thriller,4/30/2015,2,5.1
+729,Won Ton Ton: The Dog Who Saved Hollywood,Comedy,11/8/2015,1,6.67
+730,"Excuse Me Darling, But Lucas Loved Me",Comedy,9/15/2015,4,4.89
+731,Guy X,Comedy|War,5/10/2015,3,5.41
+732,On the Threshold (Lars i porten),Children|Drama,8/5/2016,5,5.33
+733,Partners,Comedy,3/13/2016,2,5.79
+734,"Invisible War, The",Crime|Documentary|Drama|War,2/23/2015,3,5.25
+735,7 Days in Havana,Drama,4/6/2016,1,5.68
+736,"Runner, The (Davandeh)",Drama,9/14/2017,1,4.86
+737,Against the Ropes,Comedy|Drama,2/21/2016,4,6.25
+738,Bloody Bloody Bible Camp,Comedy|Horror,11/15/2017,3,5.99
+739,Teenage Mutant Ninja Turtles: Turtles Forever,Action|Adventure|Animation|Comedy|Thriller,10/18/2015,4,5.71
+740,Hellion,Drama|Thriller,11/29/2017,1,5.16
+741,"King in New York, A",Comedy|Drama,9/18/2015,1,4.97
+742,Standard Operating Procedure,Crime|Documentary|War,10/13/2015,1,5.03
+743,Grave Halloween,Horror,12/21/2017,2,4.78
+744,Lethal Weapon,Action|Comedy|Crime|Drama,1/22/2016,3,6.28
+745,"Guitar, The",Drama|Romance,3/6/2017,1,6.13
+746,Like You Know It All (Jal aljido mothamyeonseo),Drama,4/17/2017,4,5.01
+747,E=mc2,Action|Comedy,3/18/2015,1,6.64
+748,"Singer, The (Quand j'étais chanteur)",Drama|Romance,9/1/2016,4,5.57
+749,Small Apartments,Comedy|Crime|Drama,1/8/2017,2,4.59
+750,It's a Disaster,Comedy|Drama,10/29/2016,1,6.38
+751,State Fair,Comedy|Drama|Romance,2/17/2017,3,5.38
+752,Ring of Darkness,Horror|Thriller,4/10/2017,3,6.45
+753,"Terror, The",Horror|Mystery,12/25/2017,1,5.75
+754,"Battle Creek Brawl (Big Brawl, The)",Action|Comedy,10/4/2017,4,5.02
+755,Six Pack,Comedy|Drama,9/22/2017,5,5.2
+756,Ride the Pink Horse,Drama|Film-Noir|Mystery|Thriller,9/19/2016,3,5.97
+757,Lost Horizon,Adventure|Drama|Fantasy|Musical|Romance,3/4/2017,4,6.46
+758,Tarzan's New York Adventure,Action|Adventure,3/13/2017,1,5.81
+759,"Fifth Estate, The",Drama|Thriller,11/14/2015,2,6.18
+760,Boys' Night Out,Comedy,4/20/2015,3,6.13
+761,That Kiljunen Family (Kiljusen herrasväki),Children|Comedy|Musical,2/4/2017,4,6.6
+762,Sunshine State,Drama,12/23/2017,2,5.31
+763,Ice Age Columbus: Who Were the First Americans?,Documentary,5/6/2016,1,5.08
+764,Pray the Devil Back to Hell,Documentary,7/30/2017,5,6.19
+765,Aladdin,Adventure|Animation|Children|Comedy|Musical,1/6/2016,5,6.6
+766,Out for Justice,Action|Crime|Drama|Thriller,2/13/2017,2,6.75
+767,"Man Who Quit Smoking, The (Mannen som slutade röka)",Comedy,5/31/2016,1,5.56
+768,Easy Money,Comedy,6/15/2015,1,6.46
+769,Bungee Jumping of Their Own (Beonjijeompeureul hada),Drama|Romance,8/10/2016,3,5.15
+770,Big Trouble in Little China,Action|Adventure|Comedy|Fantasy,11/19/2016,5,6.33
+771,"Lovely Bones, The",Crime|Drama|Fantasy|Horror|Thriller,9/8/2017,1,5.51
+772,Slumming,Comedy|Drama,7/13/2015,5,6.61
+773,Opera Jawa,Musical,11/22/2017,3,5.6
+774,"Fork in the Road, A",Comedy|Crime,11/9/2015,2,4.76
+775,Battle: Los Angeles,Action|Sci-Fi|War,1/17/2016,1,5.88
+776,"City of Lost Souls, The (Hyôryuu-gai)",Crime|Drama|Thriller,4/27/2016,5,6.25
+777,Four Minutes (Vier Minuten),Drama,1/3/2015,3,4.52
+778,That Darn Cat,Children|Comedy|Mystery,10/18/2015,4,5.98
+779,Immortal Beloved,Drama|Romance,11/23/2015,1,4.9
+780,Jerry Springer: The Opera,Comedy|Fantasy|Musical,8/12/2017,5,4.5
+781,The ABCs of Death 2,Comedy|Horror,6/16/2017,5,6.09
+782,Paranoia,Drama|Thriller,10/27/2016,4,6.06
+783,Sherlock Holmes: The Woman in Green,Mystery,8/3/2015,5,6.53
+784,Euridice BA 2O37 (Evridiki BA 2O37),Drama,7/20/2017,1,5.75
+785,Smokey and the Bandit II,Action|Comedy,2/1/2017,2,4.55
+786,"Rack, The",Drama|War,1/8/2017,2,6.06
+787,Two if by Sea,Comedy|Romance,4/12/2015,1,5.23
+788,Breaking Point,Action|Crime|Drama|Thriller,3/14/2015,5,5.07
+789,"Shanghai Gesture, The",Drama|Film-Noir,11/10/2016,1,4.77
+790,Tickets,Comedy|Drama,7/16/2015,1,5.23
+791,"Dreamers, The",Drama,2/12/2017,3,5.93
+792,Classmates,Comedy|Drama,9/8/2017,2,5.93
+793,Onibi: The Fire Within,Drama|Thriller,10/3/2016,1,5.85
+794,Saw IV,Crime|Horror|Thriller,4/4/2017,5,6.65
+795,Float,Drama|Romance,7/5/2016,1,5.75
+796,Plankton,Horror,1/29/2016,1,5.9
+797,Better Housekeeping (a.k.a. Good Housekeeping),Comedy|Drama,4/26/2017,3,5.87
+798,The Connection,Crime|Drama,2/20/2016,2,6.69
+799,Demetrius and the Gladiators,Drama,12/30/2017,2,6.14
+800,"Killing Fields, The",Drama|War,2/18/2016,1,4.84
+801,Absolute Giganten,Action|Comedy|Drama|Romance,10/5/2016,2,5.39
+802,Strangers When We Meet,Drama,1/29/2016,2,6.48
+803,Wild Child,Drama|Romance,8/16/2017,5,4.78
+804,"Chinese Ghost Story II, A (Sien nui yau wan II yan gaan do)",Action|Adventure|Fantasy|Horror|Romance,10/31/2016,4,6.75
+805,Visions of Light: The Art of Cinematography,Documentary,12/26/2016,3,6.38
+806,Meat the Truth,Documentary,8/10/2017,5,6.09
+807,Blood Shot,Action|Comedy|Horror,1/6/2015,4,5.95
+808,"Je, tu, il, elle (I, You, He, She)",Drama,4/21/2017,1,6.27
+809,"Life and Times of Allen Ginsberg, The",Documentary,3/19/2016,5,5.4
+810,Pusher II: With Blood on My Hands,Action|Crime|Drama|Thriller,6/30/2017,2,5.3
+811,Triumph of the Spirit,Drama,2/4/2017,1,4.91
+812,Shoot 'Em Up,Action|Comedy|Crime,2/7/2016,3,6.58
+813,Belly,Crime|Drama,2/24/2017,5,6.21
+814,Mesrine: Killer Instinct (L'instinct de mort),Action|Crime|Drama|Thriller,3/25/2015,4,6.31
+815,The Beaver Trilogy,Comedy|Documentary|Drama,12/23/2015,3,4.95
+816,Boy on a Dolphin,Adventure|Romance,1/15/2016,2,4.84
+817,Tinker Bell and the Lost Treasure,Adventure|Animation|Children|Fantasy,9/11/2016,1,6.64
+818,Eyes Wide Open (Einayim Petukhoth),Drama,12/4/2015,1,6.07
+819,The Gamers: Hands of Fate,Comedy|Fantasy|Romance,12/4/2017,4,4.78
+820,Of Gods and Men (Des hommes et des dieux),Drama,9/25/2017,5,6.68
+821,Running,Drama,5/29/2016,2,4.55
+822,They Won't Forget,Drama|Mystery,6/22/2015,4,4.68
+823,Punk's Dead: SLC Punk! 2,Comedy,9/26/2016,1,6.26
+824,End Game,Crime|Drama|Mystery,2/20/2015,5,6.48
+825,Imitation of Life,Drama|Romance,11/21/2016,4,6.17
+826,"All the Way Boys (Più forte, ragazzi!)",Action|Adventure|Comedy,11/9/2016,3,6.7
+827,Louisiana Story,Drama,10/4/2015,1,5.46
+828,Big Business,Comedy,7/3/2016,5,5.51
+829,Nixon by Nixon: In His Own Words,Documentary,4/13/2017,3,6.35
+830,Assassination Tango,Drama|Thriller,3/8/2016,5,4.92
+831,"Red Chapel, The (Røde kapel, Det)",Comedy|Documentary,3/29/2016,5,5.79
+832,633 Squadron,Drama|War,11/1/2015,5,5.68
+833,Cosmic Psychos: Blokes You Can Trust,Documentary|Musical,4/9/2017,3,5.68
+834,Sirocco,Action|Drama,3/6/2015,5,6.06
+835,From Hell,Crime|Horror|Mystery|Thriller,7/15/2016,2,4.79
+836,Fellini's Casanova (Il Casanova di Federico Fellini),Drama|Romance,1/25/2016,3,6.75
+837,Baby's Day Out,Comedy,7/9/2015,3,6.76
+838,"Assault, The (L'assaut)",Action|Thriller,2/18/2016,4,6.24
+839,"Ring Finger, The (L'annulaire)",Drama,5/30/2015,4,6.03
+840,Abandon Ship! (Seven Waves Away),Adventure|Drama,10/11/2015,2,4.59
+841,Victory (a.k.a. Escape to Victory),Action|Drama|War,8/6/2016,2,5.05
+842,Listen to Britain,Documentary,3/22/2015,2,4.89
+843,Last Summer,Drama,4/3/2017,2,5.21
+844,Diary of a Shinjuku Thief (Shinjuku dorobo nikki),Comedy|Drama,12/24/2015,4,4.86
+845,Species II,Horror|Sci-Fi,10/13/2016,4,5.1
+846,FairyTale: A True Story,Children|Drama|Fantasy,12/6/2017,5,6.78
+847,Bombshell,Comedy|Drama|Romance,5/12/2017,2,5.58
+848,It Felt Like Love,Drama,8/29/2017,5,6.34
+849,"Late Shift, The",Comedy,4/9/2017,4,5.69
+850,Perfume,Comedy|Drama,6/7/2016,4,6.31
+851,"Bannen Way, The",Action|Comedy|Crime|Thriller,5/1/2016,2,4.51
+852,Three-Step Dance,Drama,8/12/2016,1,6.41
+853,Professor Beware,Comedy,2/6/2015,2,5.45
+854,Exiled (Fong juk),Action|Crime|Thriller,2/18/2017,4,5.96
+855,"Devil's Playground, The",Drama,3/22/2017,4,5.33
+856,"Parent Trap, The",Children|Comedy|Romance,6/21/2017,4,4.92
+857,Ghajini,Action|Romance|Thriller,8/8/2016,2,4.7
+858,Sodom and Gomorrah,Adventure|Drama,4/25/2016,2,5.58
+859,Angel Eyes,Romance|Thriller,5/3/2016,4,6.64
+860,TerrorVision,Comedy|Horror|Sci-Fi,1/3/2015,5,4.73
+861,Basquiat,Drama,6/22/2017,5,5.23
+862,Nine Dead,Crime|Mystery|Thriller,9/27/2016,3,4.64
+863,Helicopter String Quartet,Documentary,10/26/2016,5,6.4
+864,Coneheads,Comedy|Sci-Fi,9/2/2015,5,5.74
+865,Spider-Man,Action|Adventure|Sci-Fi|Thriller,5/12/2017,3,4.56
+866,Ghost Town,Comedy|Fantasy|Romance,4/1/2015,4,5.95
+867,Death in Brunswick,Comedy,5/15/2016,4,4.52
+868,Chill,Horror|Mystery|Thriller,12/25/2016,5,5.81
+869,"Willow Tree, The (Beed-e majnoon)",Drama,4/26/2017,3,6.53
+870,The Pool Boys,Comedy,3/26/2016,5,5.86
+871,Endangered Species,Horror|Sci-Fi|Thriller,8/26/2016,5,5.43
+872,"Funeral, The",Crime|Drama,2/28/2015,1,6.25
+873,Anatomy of Hell (Anatomie de l'enfer),Drama,4/8/2016,5,4.96
+874,"Bridge to Nowhere, The",Crime|Drama,12/8/2016,3,6.21
+875,"String, The (Le fil)",Drama,3/30/2016,2,6.18
+876,"Princess Bride, The",Action|Adventure|Comedy|Fantasy|Romance,6/22/2016,2,6.52
+877,"Auntie from Chicago, The (I theia apo to Chicago)",Comedy|Romance,3/7/2016,5,6.69
+878,Idlewild,Crime|Drama|Musical,3/25/2017,4,6.0
+879,Butcher Boys (Bone Boys),Action|Comedy|Horror|Thriller,3/12/2015,2,6.21
+880,Scarlet Diva,Drama,9/25/2016,3,5.04
+881,Eden,Drama|Romance,9/2/2015,3,6.05
+882,Special Correspondents (Envoyés très spéciaux),Comedy,2/10/2017,5,5.98
+883,Fiston,Comedy,10/4/2015,3,5.29
+884,"Las Vegas Story, The",Crime|Drama|Film-Noir,11/1/2015,2,5.39
+885,"End of St. Petersburg, The (Konets Sankt-Peterburga)",Drama,5/30/2017,4,5.17
+886,"River Why, The",Drama,12/1/2015,5,5.91
+887,Black Dawn,Action,3/28/2017,5,5.18
+888,Major League,Comedy,9/28/2016,1,5.65
+889,"Loving Story, The",Documentary,2/27/2017,2,4.91
+890,Tangerines,Drama,4/12/2015,3,6.5
+891,Four Days in July,Comedy|Drama,3/2/2017,3,5.19
+892,"Penalty, The",Crime|Drama|Horror,6/12/2015,2,4.78
+893,"Easy Riders, Raging Bulls: How the Sex, Drugs and Rock 'N' Roll Generation Saved Hollywood",Documentary,1/29/2016,4,5.12
+894,Tarzan,Adventure|Animation|Children|Drama,1/16/2015,5,5.34
+895,Beaufort,Action|Drama|War,7/16/2015,5,5.09
+896,Safety Last!,Action|Comedy|Romance,4/29/2016,4,4.63
+897,Tokyo Sonata,Drama,12/18/2015,2,6.14
+898,Tammy and the Bachelor,Musical|Romance,4/16/2016,2,5.95
+899,Cold Comes the Night,Crime|Drama|Thriller,11/5/2017,2,5.33
+900,Play Time (a.k.a. Playtime),Comedy,3/6/2016,3,5.81
+901,Five Fingers,Drama|Thriller,1/28/2016,4,5.47
+902,Dark Water,Drama|Horror|Thriller,12/16/2015,4,6.02
+903,Port of Shadows (Quai des brumes),Drama,9/14/2017,5,6.19
+904,"Wind, The",Drama|Western,1/21/2015,4,6.2
+905,Let the Good Times Roll,Documentary,12/17/2015,2,5.95
+906,"City, The (Ciudad, La)",Drama,11/1/2017,1,5.88
+907,"Silver Stallion (Silver Brumpy, The)",Drama,7/23/2015,1,6.04
+908,"Earthling, The",Adventure|Drama,12/28/2017,3,4.65
+909,Harry and Walter Go to New York,Comedy,1/5/2016,2,6.35
+910,Mystery Street,Crime|Drama|Film-Noir,5/11/2015,5,6.05
+911,"Better Tomorrow III: Love and Death in Saigon, A",Action|Thriller|War,3/24/2015,1,4.91
+912,Spy(ies) (Espion(s)),Drama|Romance|Thriller,7/26/2016,3,5.44
+913,Dogs in Space,Drama,9/22/2015,3,6.6
+914,Horrible Bosses,Comedy|Crime,9/1/2015,3,6.37
+915,Monte Carlo,Comedy|Musical|Romance,6/30/2017,1,4.84
+916,Switchblade Sisters,Crime,1/23/2015,2,4.95
+917,"Crazy Stranger, The (Gadjo Dilo)",Comedy|Drama,5/22/2015,2,5.12
+918,Bethlehem,Drama|Thriller|War,3/14/2016,4,5.28
+919,Tora-san's Love Call (Otoko wa tsurai yo: Torajiro koiuta),Comedy,9/17/2017,1,6.06
+920,Thrust in Me,(no genres listed),6/11/2015,4,4.74
+921,"Muppet Christmas: Letters to Santa, A",Children|Comedy,12/6/2017,1,5.86
+922,A Chairy Tale,Animation|Comedy|Fantasy,12/3/2015,1,5.54
+923,Piglet's Big Movie,Animation|Children,4/30/2015,1,4.68
+924,Brute (Bandyta),Drama,2/27/2017,5,6.18
+925,Fanfan la Tulipe (Fan-Fan the Tulip),Action|Adventure|Comedy|Romance|War,10/7/2016,3,6.31
+926,Death Wish 5: The Face of Death,Action|Drama,8/23/2015,4,6.38
+927,Torture Garden,Horror,7/23/2017,1,5.26
+928,"Texas Chainsaw Massacre: The Beginning, The",Horror|Thriller,5/23/2015,4,5.47
+929,Starter for 10,Drama|Romance,6/27/2017,2,6.71
+930,Care Bears Movie II: A New Generation,Animation|Children,2/15/2017,4,6.48
+931,Virginia,Drama,10/17/2016,4,5.63
+932,Drive Hard,Action|Comedy|Crime,8/11/2017,3,6.34
+933,55 Days at Peking,Drama|War,11/23/2016,3,5.77
+934,Mighty Morphin Power Rangers: The Movie,Action|Children,12/25/2015,1,4.52
+935,Peaceful Warrior,Drama,3/8/2016,1,5.36
+936,"Locusts, The",Drama,9/9/2015,1,6.03
+937,"Town is Quiet, The (Ville est tranquille, La)",Drama,7/26/2017,2,6.02
+938,Richie Rich,Children|Comedy,7/21/2015,5,6.46
+939,Arthur,Comedy|Romance,5/13/2017,5,4.93
+940,Separate Tables,Drama,11/5/2016,2,5.4
+941,"Bulli: Cooking in Progress, El",Documentary,5/5/2016,5,5.22
+942,"Sundowners, The",Adventure|Drama,1/4/2015,5,5.01
+943,Face of Terror,Action|Drama|Thriller,2/9/2016,2,6.73
+944,Agatha Christie's 'Ten Little Indians' (Ten Little Indians) (And Then There Were None),Mystery,2/12/2016,1,6.21
+945,"Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die)",Documentary,7/27/2017,5,4.78
+946,Bring Me the Head of Alfredo Garcia,Crime|Drama|Thriller,11/26/2016,3,6.5
+947,Halloween III: Season of the Witch,Horror,8/18/2016,4,5.24
+948,Love's Long Journey,Drama|Romance|Western,10/31/2015,5,4.57
+949,D.A.R.Y.L.,Adventure|Children|Sci-Fi,3/25/2016,1,6.14
+950,Happy Go Lovely,Musical,3/16/2015,2,6.28
+951,"Along the Great Divide (Travelers, The)",Adventure|Romance|Western,3/18/2017,4,4.64
+952,Time Changer,Drama|Sci-Fi,12/26/2015,2,5.36
+953,Instinct,Drama|Thriller,8/26/2016,3,5.97
+954,Samurai Vendetta,Action|Drama,7/5/2016,5,5.19
+955,Role Models,Comedy,9/12/2017,3,6.65
+956,"Three Faces of Eve, The",Drama,8/8/2017,2,5.75
+957,Marianne & Juliane (Die Bleierne Zeit),Drama,11/15/2015,4,4.82
+958,"Clockmaker of St. Paul, The (L'horloger de Saint-Paul)",Crime|Drama,2/7/2015,1,5.39
+959,Kung Fu Panda Holiday Special,Animation|Children|Comedy,10/24/2015,1,6.37
+960,"Guilt Trip, The",Comedy,2/4/2016,1,6.39
+961,"Astronaut Farmer, The",Drama,9/12/2016,1,6.07
+962,"Long Way Down, A",Comedy|Drama,1/13/2015,1,4.72
+963,Films to Keep You Awake: The Baby's Room (Películas para no dormir: La habitación del niño),Horror,2/27/2016,2,5.03
+964,Off the Charts: The Song-Poem Story,Documentary,12/28/2016,5,6.37
+965,Elizabethtown,Comedy|Drama|Romance,12/28/2015,1,5.72
+966,Death on the Nile,Crime|Mystery,12/17/2015,5,6.1
+967,Werewolf Woman (La lupa mannara),Horror,11/16/2017,5,6.65
+968,Invitation to a Gunfighter,Action|Western,6/28/2016,4,5.18
+969,The Golden Voyage of Sinbad,Action|Adventure|Fantasy,12/17/2015,5,4.7
+970,Lone Wolf and Cub: White Heaven in Hell (Kozure ôkami: Jigoku e ikuzo! Daigorô),Action|Drama|Fantasy,12/17/2015,3,5.78
+971,"Last of the Mohicans, The",Adventure|Drama|War,7/5/2016,5,6.4
+972,Digging to China,Drama,8/21/2015,2,5.28
+973,Going Ape!,Comedy,10/19/2015,5,6.52
+974,"Yes, But... (Oui, mais...)",Comedy|Drama|Romance,10/6/2015,4,5.01
+975,Viva Riva!,Drama,3/22/2017,1,6.67
+976,12th & Delaware,Documentary,11/21/2017,2,6.66
+977,Teen Witch,Comedy,6/15/2017,1,6.66
+978,Satin Rouge,Drama|Musical,5/9/2016,4,6.34
+979,"Wild Thornberrys Movie, The",Animation|Children|Comedy,1/30/2016,2,6.57
+980,Journey to Saturn (Rejsen til Saturn),Action|Adventure|Animation|Sci-Fi,8/31/2015,3,5.94
+981,Surviving Progress,Documentary,1/23/2017,5,6.22
+982,"Devil's Double, The",Action|Drama,7/18/2017,4,6.61
+983,Pelle Svanslös,Animation|Children,9/27/2016,5,4.98
+984,Fatherland,Action|Drama,6/23/2016,1,5.58
+985,Savage Three,Drama,1/1/2017,5,5.61
+986,Bait,Action|Horror|Thriller,5/6/2016,2,6.31
+987,Order and Disorder,Documentary,8/8/2016,3,5.81
+988,And So It Goes,Comedy|Drama|Romance,4/21/2016,4,6.56
+989,"Hotel New Hampshire, The",Drama,9/11/2017,3,4.52
+990,Beaches,Comedy|Drama|Musical,6/20/2017,2,6.44
+991,Brigadoon,Fantasy|Musical|Romance,3/16/2015,4,6.65
+992,Guest House Paradiso,Comedy|Thriller,4/27/2017,2,4.9
+993,Make Your Move,Musical,4/12/2016,3,6.48
+994,"Hunters, The (Jägarna)",Crime|Thriller,1/12/2016,5,5.89
+995,"Cat's Meow, The",Drama|Thriller,7/23/2016,3,5.93
+996,Everybody's Fine (Stanno tutti bene),Comedy|Drama,7/12/2015,3,5.01
+997,"Artist, The (El Artista)",Comedy|Drama,6/6/2015,1,6.32
+998,Madame Sin,Thriller,1/8/2017,1,5.85
+999,Deep Blue,Documentary,11/15/2016,2,5.47
+1000,"Midsummer Night's Party, A (Midsummer of Love, A) (Sommaren med Göran)",Comedy,4/7/2017,2,5.27
